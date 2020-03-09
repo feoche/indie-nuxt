@@ -1,0 +1,524 @@
+[
+  {
+    "name": "competition",
+    "displayName": "Competition",
+    "games": [
+      {
+        "title": "Pawarumi",
+        "studio": "Manufacture 43",
+        "summary": "Pawarumi est un shoot’em up moderne se déroulant dans un univers rétro-futuriste inspiré des cultures pré-colombiennes. Vous prenez les commandes du tout puissant vaisseau Chukaru; choisissez bien votre arme pour maximiser vos dégâts, vous soigner ou recharger votre attaque spéciale !",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "ps4",
+          "switch",
+          "one"
+        ],
+        "keywords": [
+          "Shoot’Em Up",
+          "Solo"
+        ],
+        "link": "http://pawarumi.manufacture43.com/"
+      },
+      {
+        "title": "ScourgeBringer",
+        "studio": "Flying Oak Games",
+        "summary": "ScourgeBringer est un jeu de plate-forme roguelite, où vous devrez aider Kyhra à explorer l’inconnu et à se frayer un chemin entre les anciennes machines gardant le sceau de son passé, mais aussi la rédemption de l’humanité.",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Rogue-lite",
+          "Platformer",
+          "Solo"
+        ],
+        "award": "Stunfest Indie Award",
+        "link": "http://scourgebringer.com/"
+      },
+      {
+        "title": "Sbirz",
+        "studio": "Splashteam",
+        "summary": "Incarnez Angus, cadre moyen du département marketing, qui se retrouve un jour propulsé par mégarde dans une dimension parallèle. Dans ce monde hostile habité par le bizarre et l’inconnu, il va rencontrer le petit peuple des Sbirz, dont il devra solliciter les pouvoirs dans l’espoir de rentrer un jour à la maison.",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Pikmin-rogue",
+          "Solo"
+        ],
+        "link": "https://www.youtube.com/watch?v=r2O0ehZWnvQ"
+      },
+      {
+        "title": "Legend of Keepers",
+        "studio": "Goblinz Studio",
+        "summary": "Legend of Keepers est le mélange parfait entre un Dungeon Defender et un roguelike. Vous avez été embauché en tant que maître de donjon par la Company of Dungeon. Votre travail est simple : protégez leurs cachots !",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "RPG",
+          "Stratégie",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "link": "https://store.steampowered.com/app/978520/Legend_of_Keepers"
+      },
+      {
+        "title": "Minimal Move",
+        "studio": "Tako Studio",
+        "summary": "Minimal Move est un nouveau type de jeu de puzzle en 3D. L’aventure commence lorsque deux inspecteurs de l’espace, Kaiten et Ido atterrissent dans un merveilleux monde cubique pour découvrir les secrets de cette galaxie... Les règles du jeu sont simples, bougez les blocs et atteignez le portail ! Un nouveau jeu de puzzle innovant, bienvenue dans le monde de Minimal Move !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.minimal-move.com"
+      },
+      {
+        "title": "Unruly Heroes",
+        "studio": "Magic Design Studios",
+        "summary": "Inspiré du célèbre roman chinois «La Pérégrination vers l’Ouest», Unruly Heroes conte l’aventure de quatre héros totalement invraisemblables que tout oppose. Ces derniers devront traverser des mondes fantastiques et coopérer pour rassembler tous les fragments de Parchemin et restaurer l’équilibre.",
+        "platforms": [
+          "windows",
+          "ps4",
+          "switch",
+          "one"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://www.unrulyheroes.com"
+      },
+      {
+        "title": "Last Moon",
+        "studio": "Sköll Studio",
+        "summary": "La Lune s’effondre, de viles créatures apparaissent, Un voile de ténêbres s’abat sur le monde! Last Moon est un Action-RPG inspiré par Zelda, Secret of Mana, Chrono Trigger, et d’autres jeux cultes des années 90 !",
+        "platforms": [
+          "windows",
+          "mac",
+          "switch",
+          "ps4",
+          "one"
+        ],
+        "keywords": [
+          "RPG",
+          "Solo"
+        ],
+        "link": "http://skoll-studio.com/lastmoon.html"
+      },
+      {
+        "title": "Pile Up!",
+        "studio": "Seed By Seed",
+        "summary": "Bondissez sur vos ami·e·s, empilez vous et explorez ensemble un joyeux monde de carton ! Pile Up est un adorable jeu coopératif de plateformes et de puzzle en 3D qui peut se jouer jusqu’à quatre personnes !",
+        "platforms": [
+          "windows",
+          "mac",
+          "switch"
+        ],
+        "keywords": [
+          "Platformer",
+          "Puzzle",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "award": "Promise Award",
+        "link": "https://www.pileupgame.com/"
+      },
+      {
+        "title": "Hair Dash",
+        "studio": "Clean Cut Games",
+        "summary": "Défendez votre île et ses habitants dans ce brawler d’arcade survolté ! Jaloux de la chevelure magnifique et de la puissance physique que procure l’arbre mystique de votre île à ses habitants, le Roi Poulpe - intégralement chauve - a décidé de l’envahir avec son armée de pirates. Vous incarnez Charmant au sein d’un gameplay simple à appréhender mais offrant une grande profondeur et nervosité : un bouton pour attaquer dans chaque direction (droite et gauche) et c’est là votre seul moyen de vous déplacer, attaquer les ennemis ! Déjouez les hordes de pirates, composées d’un grand nombre d’ennemis et de mécaniques préparées par le Roi Poulpe, collectionnez les cosmétiques pour Charmant et montrez au monde que vous êtes le (ou la !) meilleur(e) !",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Arcade",
+          "Action",
+          "Solo"
+        ],
+        "link": "http://www.cleancutgames.com/"
+      },
+      {
+        "title": "Ninza",
+        "studio": "Klakmioch",
+        "summary": "Ninza est un jeu de confrontation d’un genre inédit : le platformer 2D brawler. En effet, les plateformes qui composent les niveaux du jeu servent autant à votre survie qu’à l’élimination de vos adversaires !",
+        "platforms": [
+          "windows",
+          "mac",
+          "switch"
+        ],
+        "keywords": [
+          "Platformer",
+          "Brawler",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://www.ninza-game.com/"
+      },
+      {
+        "title": "Sillysquad",
+        "studio": "Voxweaver",
+        "summary": "Avec leur premier projet Sillysquad, Voxweaver propose un party game déjanté où l’on doit nourrir la reine de notre tribu avec les corps inconscients de nos adversaires. Un mélange entre brawler et basketball qui mettra votre amitié à rude épreuve.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Party Game",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "link": "https://voxweaver.com/our-games/"
+      },
+      {
+        "title": "Super Chicken Catchers",
+        "studio": "White Smoke Games",
+        "summary": "Dans ce jeu coopératif fou, une équipe de deux joueurs en combat une autre. Dans chaque équipe, un joueur est la monture, l’autre le cavalier. Pour gagner, ils devront attraper le poulet et fuir l’autre équipe pour marquer des points et devenir les Super Chicken Catchers !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Battle",
+          "Multi"
+        ],
+        "award": "People's Choice Award",
+        "link": "https://whitesmokegames.com/"
+      },
+      {
+        "title": "Snowtopia",
+        "studio": "Tea For Two",
+        "summary": "Bienvenue à Snowtopia ! Concevez la station de ski idéale, satisfaites des profils de skieurs toujours plus exigeants, et améliorez vos installations dans un cadre de montagnes grandioses et d’hiver éternel.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Gestion",
+          "Solo"
+        ],
+        "link": "https://www.playsnowtopia.com/"
+      },
+      {
+        "title": "Skelittle: A Giant Party",
+        "studio": "Bubble Studios",
+        "summary": "Dans Skelittle : A Giant Party ! incarnez de petites figurines échappées de leur boîte de céréales. Découvrez une maison à taille humaine, défiez et piégez vos amis dans une quinzaine de mini-jeux originaux, ou laissez libre cours à votre créativité dans un mode bac à sable qui vous permettra de créer vos propres jeux !",
+        "platforms": [
+          "windows",
+          "switch",
+          "ps4",
+          "one"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "https://store.steampowered.com/app/916960/Skelittle_A_Giant_Party/"
+      },
+      {
+        "title": "Beat the Clock",
+        "studio": "Mastodonte",
+        "summary": "L’humanité touche à sa fin. Un monstre abyssal s’est réveillé des profondeurs, déterminé à soumettre le monde. La menace a atteint un point de non-retour, il n’y a plus d’avenir... Pourtant, il reste de l’espoir ! Si la menace est aujourd’hui inarrêtable, cela n’a pas toujours été le cas. Un Chronomancien a l’intention de ressusciter les plus grands héros de tous les temps et de les envoyer dans le passé, au moment où l’invasion pourrait encore être arrêtée. Mais le temps presse ...COUREZ !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "RPG",
+          "Rogue-like",
+          "Solo"
+        ],
+        "link": "http://www.beat-the-clock.fr/index.php/fr/"
+      },
+      {
+        "title": "Protocore",
+        "studio": "Iumtec",
+        "summary": "Essaie un shooter nerveux dans un univers sci-fi en solo ou en coop ! Tire au travers d’implacables vagues de robots dans un vaisseau gigantesque et affronte l’IA la plus manipulatrice jamais programmée. Sois vif ! Tu perds déjà le contrôle... N’attend pas d’être dépassé par ton némésis, Anomalie. FAIS FACE AUX MACHINES dès maintenant !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "FPS",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://protocore.fr/"
+      }
+    ]
+  },
+  {
+    "name": "village",
+    "displayName": "Village",
+    "games": [
+      {
+        "title": "Skybolt Zack",
+        "studio": "Devs Must Die",
+        "summary": "Skybolt Zack est un jeu de plateforme ultra dynamique, dont la mécanique principale s’inspire des jeux de rythme. Sauf qu’on ne joue pas en rythme. Et on saute pas beaucoup non plus... Bref si c’est pas clair, venez tester plutôt tester notre démo !",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://isart-digital.itch.io/skybolt-zack"
+      },
+      {
+        "title": "Matter",
+        "studio": "Concrete Games",
+        "summary": "Explorez un monde mystique et expressif dans un dynamique jeu de plateformes à la première personne. Plongez dans un monde onirique et abstrait où la matière évolue et vit autour de vous en fonction de vos actions.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://www.concretegames.xyz/matter-info"
+      },
+      {
+        "title": "RedBricks",
+        "studio": "Otterways",
+        "summary": "RedBricks est une plateforme de création communautaire. Les développeurs y travaillent en collaboration directe avec leur communauté de joueurs : chacun peut donner son avis, proposer de nouvelles idées, et soutenir financièrement son projet favori !",
+        "link": "https://redbricks.games/"
+      },
+      {
+        "title": "Toulouse Game Dev",
+        "summary": "Ce groupe se veut réunir et rassembler tous les passionnés de création et des coulisses du jeu vidéo. Vous pouvez donc venir rencontrer l'association ToulouseGameDev si vous êtes créateur, passionné de jeux, universitaire sur le jeu vidéo, ou si vous voulez juste venir boire avec nous.",
+        "platforms": [],
+        "keywords": [],
+        "link": "http://toulousegamedev.fr/"
+      },
+      {
+        "title": "Vectronom",
+        "studio": "Ludupium",
+        "summary": "Les joueurs devront observer les évolutions de l’environnement au gré de la musique pour déplacer un cube en rythme, et résoudre les énigmes auxquelles ils seront confrontés. Les obstacles évoluent avec la musique et deviennent de plus en plus difficile en fonction de la progression des joueurs, mettant à l’épreuve leurs capacités de réflexion dans l’espace.",
+        "platforms": [
+          "windows",
+          "mac",
+          "switch"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Multi"
+        ],
+        "link": "https://www.arte.tv/sites/webproductions/vectronom/"
+      },
+      {
+        "title": "The Wanderer: Frankenstein’s Creature",
+        "studio": "Arte",
+        "summary": "Vous incarnez la Créature, un être sans mémoire et sans passé. Vous ne connaissez ni le Mal, ni le Bien. Vous êtes un esprit vierge dans un corps adulte. En découvrant le monde, vous explorez vos émotions et écrivez les premières pages de votre histoire. Lorsque vous serez confrontés à la communauté des hommes, vous ne pourrez échapper à la question de vos origines. Qui vous a livré au monde ? Viendra alors le temps d’une aventure qui vous mènera à travers l’Europe ; vos expériences – certaines brutales, d’autres tragiques, ou joyeuses – et vos choix, vous rapprocheront, à chaque pas, de la vérité. Mais, cette vérité, serez-vous prêts à l’affronter ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "mobile"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.labellegames.com/projects/frankenstein-and-the-wanderer"
+      },
+      {
+        "title": "Hellink",
+        "studio": "Ikigai",
+        "summary": "Le premier visual novel sur les fake news ! Menez une enquête trépidante et pleine d’humour en 2044 ! Arriverez-vous à démonter les mensonges de vos adversaires et à résoudre le complot qui menace Néo-Sorbonne ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Visual Novel",
+          "Solo"
+        ],
+        "link": "http://hellink.fr/"
+      }
+    ]
+  },
+  {
+    "name": "prototypes",
+    "displayName": "Prototypes",
+    "games": [
+      {
+        "title": "Kairos'Light",
+        "studio": "Let's Develop Change",
+        "summary": "Dans un futur aux contours sombres et énigmatiques, un vieil homme triste, Edmond, appelle à l’aide dans un dernier espoir. Entendant son appel, le mage Kairos, dont les pouvoirs sont infinis, lui donne une chance de revivre sa jeunesse pour changer sa destinée. Après un voyage temporel vivifiant, vous incarnez Edmond dans son plus bel âge, celui des rencontres au bar et des choix de vie, dans l’agréable ville de Thésye. Dans ce jeu de gestion, vos choix auront un impact sur l’avenir d’Edmond et ses futurs alternatifs possibles.",
+        "platforms": [
+          "windows",
+          "android"
+        ],
+        "keywords": [
+          "Gestion",
+          "Solo"
+        ],
+        "link": "https://www.facebook.com/KairosLight"
+      },
+      {
+        "title": "One Day To Remember",
+        "studio": "Sweet Dreams Studio",
+        "summary": "Amnésique, un enfant se réveille dans les ruines d’une cité oubliée, laissée à l’abandon. Pour retrouver son passé et découvrir l’histoire de la ville, il devra en explorer les moindres recoins, tout en déjouant les obstacles lui barrant la route.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Aventure",
+          "Solo"
+        ],
+        "link": "https://www.facebook.com/SweetDreamsStd/"
+      },
+      {
+        "title": "Spliti",
+        "studio": "Phlegmagames",
+        "summary": "Spliti est un jeu de plateforme et de réflexion se déroulant dans un monde onirique. Vous contrôlez l’esprit d’un scientifique coincé dans un cube d’énergie. Vous devrez être malin et habile pour passer les obstacles et aider le héro à regagner son corps.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Platformer",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://phlegmagames.com/"
+      },
+      {
+        "title": "Disk Commander",
+        "studio": "Procrastination Entertainement",
+        "summary": "Aux commandes de votre vaisseau spatial et armé d’un disque aux étranges propriétés, pourfendez l’envahisseur qui menace l’univers. Dans ce jeu solo votre sang froid et votre précision serons mis à rude épreuve ! Arriverez vous à sauver l’univers ?!",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Rogue-like",
+          "Solo"
+        ]
+      },
+      {
+        "title": "2DOOM",
+        "studio": "Damien Mayance, Simon Coroller & The Fun Institute",
+        "summary": "2DOOM est un demake 2D faisant hommage au plus célèbre des FPS. Sous son air tout mignon se cache un déluge d’action et de violence sanglante. Vous n’êtes pas le héros. Vous êtes simplement un autre Marine perdu sur Mars en pleine invasion démoniaque. Mais vous aussi, vous savez manier le fusil à pompe et le BFG. Redécouvrez l’univers de DOOM à travers cet hommage et parcourez un autre bout de la planète rouge.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Action",
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://dmayance.com/2DOOM/"
+      },
+      {
+        "title": "Ghost 808",
+        "studio": "Reverence Prod",
+        "summary": "Ghost 808 est un danmaku alliant graphismes polygonés et ambiance Synthwave. Dans ce Shooter, un trou noir a fait apparition au centre de la galaxie et une armée de spectres suivie de leurs généraux étendent leur domination. Au crépuscule de l’Ère des Poissons, l’Histoire se répète...",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "https://www.ghost-808.com/"
+      },
+      {
+        "title": "Magicarium",
+        "studio": "3Axes",
+        "summary": "Magicarium est une simulation d’apprenti sorcier en réalité virtuelle. Elle vous invites à découvrir ce qui se passe le soir quand le directeur de votre école de sorcellerie n’est pas dans son bureau.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "VR",
+          "Solo"
+        ]
+      },
+      {
+        "title": "Autonomia",
+        "studio": "Maud L’Helgoualc’h et Ruben Amegan",
+        "summary": "Ce jeu se situe dans l’univers absurde mais néanmoins réaliste de Makan, une petite île où vous êtes à la quête du bonheur. Suivez le guide et gagnez la sympathie des habitants, ou bien désobéissez et trouvez vous même ce qui vous rendra heureux.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Gestion",
+          "Solo"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "gamejam",
+    "displayName": "Gamejam",
+    "games": [
+      {
+        "title": "TVLink",
+        "studio": "SuperZikoure",
+        "summary": "Un jeu multi local de stratégie sur les compagnies de publicité qui se combattent pour des parts d'audience",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Multi"
+        ],
+        "award": "GameJam Award",
+        "link": "https://superzikoure.itch.io/tvlink"
+      },
+      {
+        "title": "Quasi Mire",
+        "studio": "Studio Casserole",
+        "summary": "Fuyez les enfants, Casimir veut vous manger tout cru ! Evitez les obstacles et sortez du plateau de tournage de l'Île aux Enfants vivant !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://studio-casserole.itch.io/quasimire"
+      },
+      {
+        "title": "You Need to Translate",
+        "studio": "Mahjoub",
+        "summary": "Placé dans la station mir, vous devez traduire des signaux de dirigeants mondiaux. Le gameplay consiste à brancher des cables entre des téléviseurs demandant et envoyant un symbole associé à une couleur.  Ces signaux devront être traduit en les passant dans des boites afin d'éviter que les dirigeants se déconnectent les uns après les autres.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "https://mahjoub.itch.io/you-need-to-translate"
+      },
+      {
+        "title": "HDMI-RE",
+        "studio": "Hamrod",
+        "summary": "Vous incarnez l'amire-al Lumire devant étalonner des écrans de télé. Pour ce faire, réparez la TV Kassai à l'aide d'un modèle, et récupérez les couleurs manquantes sur le circuit imprimé rempli de puzzles !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "https://hamrod.itch.io/hdmi-re"
+      }
+    ]
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "name": "competition",
+    "displayName": "Competition",
+    "games": [
+      {
+        "title": "1 Shot 1 Kill",
+        "studio": "Leikir Studio",
+        "summary": "1 Shot 1 Kill est un jeu de bataille en arène, idéal pour s’amuser à 4 potes dans son canapé. Découvrez 4 armes aux gameplays différents : l’arc, le boomerang, le lance-pierre et le marteau, à travers plusieurs modes de jeu : bataille, équipes, coopération. Tirez, esquivez et punissez vos adversaires, avec comme seul allié, votre talent ! 1 Shot 1 Kill, no luck just skill!",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "consoles"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "https://www.facebook.com/1shot1killthegame"
+      },
+      {
+        "title": "Abstract Pixel Run!",
+        "studio": "Gildas P",
+        "summary": "Il s’agit d’un plateformeur génératif, “die and retry”. 1 joueur, ambiance abstraite/design génératif.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Runner",
+          "Solo"
+        ],
+        "link": "http://abstractpixelgames.com/"
+      },
+      {
+        "title": "aWay Project",
+        "studio": "aWay team",
+        "summary": "aWAY est une expérience interactive qui questionne sur le dilemme que l’on peut ressentir dans le choix entre Rêve et Réalité. Une expérience sous deux formes interconnectées : L’une très immersive et solitaire pour la personne plongée dans le subconscient (à l’aide un casque de réalité virtuelle). L’autre plus accessible et plus ancrée dans le réel pour interagir avec le subconscient de la personne immergée (par le biais d’un périphérique tactile). Où l’expérience vous mènera-t-elle ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "ios"
+        ],
+        "keywords": [
+          "VR",
+          "Solo"
+        ],
+        "link": "http://novaplay.me/away"
+      },
+      {
+        "title": "Box Out!",
+        "studio": "Da Picky Monkey",
+        "summary": "Fan de jeux de plateformes à la recherche de challenges ? Box Out! va mettre vos skills à l’épreuve. Prenez le contrôle de Boxy et maitrisez ses 6 transformations afin de venir à bout de 120 niveaux à la difficulté croissante. Repérez le meilleur parcours, optimisez vos mouvements et hissez-vous en haut des leaderboards.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": ""
+      },
+      {
+        "title": "City Invaders",
+        "studio": "Lone Stone",
+        "summary": "Lone Stone est un studio indépendant créé en 2014 et basé à Nantes. Notre but est de créer des jeux Free2Play innovants et de qualité. Nous travaillons en ce moment sur notre premier jeu, City Invaders, un MMORPG tactique géolocalisé. Nous pensons que Free2Play ne veut pas dire “jeu de seconde zone”, mais qu’à l’inverse ce mode de commercialisation ouvre de nouvelles possibilités de gameplay.",
+        "platforms": [
+          "steam",
+          "mobile"
+        ],
+        "keywords": [
+          "RPG",
+          "Multi"
+        ],
+        "link": "https://cityinvaders.game/fr-FR/"
+      },
+      {
+        "title": "Crowd Smashers",
+        "studio": "Tetedebug",
+        "summary": "Crowd Smashers est un jeu d’affrontement en local. Detruisez le public de votre adversaire tout en protégeant le votre. Combinez 3 écoles de magies pour créer des sorts puissants et surprenants. Plus vous faites d’échanges plus la boule gagne en puissance et en vitesse. Faites appel à des super attaques pour; Buff, Debuff, et détruire encore plus violemment la foule adverse.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Arcade",
+          "Multi"
+        ],
+        "award": "Stunfest Indie Award",
+        "link": "http://www.CrowdSmashers.com"
+      },
+      {
+        "title": "Crowntakers",
+        "studio": "Bulwark Studios",
+        "summary": "Crowntakers est un tactical roguelike solo prenant place dans un univers médiéval fictif. Le joueur y incarne le fils illégitime d’un roi en chemin pour libérer ce dernier, enfermé dans les geôles de son propre château. Pour se faire, le joueur devra traverser les différentes contrées du royaume, recruter un groupe de mercenaires, les entraîner, pour finalement accomplir sa quête.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "mobile"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Rogue-like",
+          "Solo"
+        ],
+        "link": "http://www.bulwarkstudios.com"
+      },
+      {
+        "title": "Domiverse",
+        "studio": "Haunted Tie",
+        "summary": "Vous avez 3 amis ? Défiez les à Domiverse et prouvez votre talent de gamer ! Choisissez parmi 8 héros aux capacités aussi surprenantes que variées, et remportez le tournoi Domiverse. Vous serez instantanément plongé dans son univers plein de limaces et de chats via un gameplay intuitif et dynamique où chaque attaque est fatale. Et si vous n’avez pas 3 amis, vous pouvez quand même jouer à 2 ou 3.",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "https://domiverse.be/"
+      },
+      {
+        "title": "Drifting Lands",
+        "studio": "Alkemi",
+        "summary": "Drifting Lands est un mix original de shoot’em’up horizontal classique avec les standards modernes du hack’n’slash, le descendant illégitime de Diablo et R-Type en quelque sorte. Drifting Lands est conçu pour satisfaire aussi bien les amateurs de shmups que de hack’n’slash. Le jeu propose un challenge très progressif que vous pourrez surmonter par votre seul Skill ou par une bonne sélection de compétences ainsi qu’une progression plus lente mais sûre de vos statistiques et équipements",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": " http://www.drifting-lands.com"
+      },
+      {
+        "title": "Goetia",
+        "studio": "Sushee",
+        "summary": "Goetia est un point’n click qui se déroule dans un univers fantastique. Vous incarnez un fantôme, Abigail Blackwood, à la recherche de réponses à propos de la disparition mystérieuse de membres de sa famille. Le jeu, soutenu par Square-Enix, est prévu pour la fin de l’année 2015 sur PC, Mac et Linux.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Point'N'Click",
+          "Solo"
+        ],
+        "link": "http://playgoetia.com/"
+      },
+      {
+        "title": "Hazelrun",
+        "studio": "Sushee",
+        "summary": "Hazelrun est un jeu de course multijoueur compétitif. Il met en scène 4 écureuils qui doivent se frayer un chemin dans un parcours semé d’obstacles, sans se faire rattraper par le scrolling. Le jeu prend tout son intérêt à quatre joueurs, chacun tentant de rattraper l’autre au moyen de noisettes piégées, d’inverseurs de gravité ou de marteaux rétrécissants.",
+        "platforms": [
+          "windows",
+          "mac",
+          "mobile",
+          "consoles"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "award": "People's Choice Award",
+        "link": "https://www.facebook.com/hazelrungame/"
+      },
+      {
+        "title": "Herocoli",
+        "studio": "Gamelier",
+        "summary": "Hero.Coli est un jeu d’aventure et de puzzle permettant d’apprendre les principes de base de la biologie de synthèse.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Aventure",
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://herocoli.com/"
+      },
+      {
+        "title": "Hoy!",
+        "studio": "Flying Oak Games",
+        "summary": "Dansez à la gloire de votre leader ! Hoy! est un jeu de danse prenant place dans une dictature totalitaire communiste. Reproduisez les figures et criez “Hoy!” pour valider votre pose. Faites en maximum en moins d’une minute pour satisfaire votre leader, ou sinon… Hoy! paraîtra prochainement sur Xbox One dans l’anthologie Best Party ever.",
+        "platforms": [
+          "consoles"
+        ],
+        "keywords": [
+          "Party Game",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.flying-oak.com/works/hoy/"
+      },
+      {
+        "title": "Ilios - Betrayal Of Gods",
+        "studio": "Aurora Studio",
+        "summary": "Ilios est un jeu d’action-aventure en 2D HD. S’inspirant de titres encensés par la critique telles que les productions du studio Vanillaware (Dragon’s Crown), des titres de chez Platinum Games (Bayonneta) ou de références plus ancienne (Megaman, Castlevania) la volonté de cette équipe est d’offrir une aventure qui sort des canons actuels en proposant une narration poussée et un gameplay nerveux. ",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Action",
+          "Solo"
+        ],
+        "award": "Promise Award",
+        "link": "http://www.ilios-thegame.com"
+      },
+      {
+        "title": "Interference",
+        "studio": "Anthony Beyer",
+        "summary": "Interference est un jeu d’Aventure (mêlant Plateforme, Infiltration et Puzzles) en Solo dans un univers Cyberpunk. Les citoyens devenants trop couteux pour la société sont transférés au fur et à mesure sur des serveurs. Arriverez-vous à vous extirper de cette destinée ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://interference-game.com"
+      },
+      {
+        "title": "Isbarah",
+        "studio": "Leikir Studio",
+        "summary": "Isbarah est une fusion entre le platformer et le bullet hell. C’est un jeu particulièrement hardcore où chaque niveau est un duel contre un Boss. Vous contrôlez votre personnage comme dans un platformer et votre adversaire agit comme dans un bullet hell. Pour faire la liaison entre ces deux gameplay vous possédez trois pouvoirs : Un ralentissement du temps : Cela vous permet d ‘agir précisément et d’analyser la situation. Un dash omni directionnel : Il vous permet de bouger à très grande vitesse et de gérer les situations extrêmes. Une barrière d’énergie : Tracer ce mur vous permettra de vous en servir comme d’un bouclier ou comme d’une plateforme. Pour survivre dans Isbarah vous devez gérer correctement vos pouvoirs et vos déplacements. Tout est dans l’art de l’esquive.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://www.leikir-studio.com/isbarah"
+      },
+      {
+        "title": "Lastfight",
+        "studio": "Piranaking",
+        "summary": "LASTFIGHT est un jeu de combat / plateforme en 3D au style arcade inspiré de la bande dessinée récemment récompensée à Angoulêmes : LASTMAN. Plein d’humour, technique, fun, jouable à 4, LASTFIGHT présentera un roster de 10 personnages. Chacune des 8 arènes sera parsemée de boosts et d’objets spécifiques, pour un gameplay renouvelé à chaque partie ! LASTFIGHT est encore en développement, spécialement pour le STUNFEST nous allons faire une version beta avec 5 personnages et 3 arenes. Ça sera la première fois qu’on montrera le jeu en public !",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Brawler",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.lastfightgame.com/"
+      },
+      {
+        "title": "Lavapools",
+        "studio": "4EdgesGames",
+        "summary": "Lavapools est un jeu d’esquive hardcore d’arcade. Comparable à un pacman hardcore et modernisé, votre seul outil contre les scies, les chauves souris et autres pièges maléfiques sera l’esquive. Orienté speedrunning, leaderboard et scoring, il ravira les amateurs de jeux hardcore. Créé pendant plus d’une année, il est actuellement en préparation pour une sortie Steam prévue pour 2015. Des graphismes rétro, une bande son à la guitare éléctrique et un rythme endiablé, infernale sont les principales caractéristiques du jeu.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://lavapools.com"
+      },
+      {
+        "title": "Lethis - Path Of Progress",
+        "studio": "Triskell Interactive",
+        "summary": "Il s’agit d’un city builder old school en 2D isométrique dans un univers victorien steampunk. Le jeu se joue en solo, offline uniquement.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "http://lethispop.com/"
+      },
+      {
+        "title": "Lije",
+        "studio": "Rufflerim",
+        "summary": "Dans les brumes permanentes d’une étrange contrée, une jeune femme lutte pour sortir du chemin qui a été tracé pour elle par des hommes, des sociétés et des dieux. Lije est un RPG 2D, inspiré à la fois de la tradition japonaise (personnages forts) et de la tradition occidentale (liberté d’action dans un univers cohérent). Le jeu est prévu en 5 épisodes. Dans l’univers de Lije, la croyance crée le réel. Si une rumeur se répand suffisamment, elle va se matérialiser. Au contraire, si un individu se retrouve isolé, si un endroit n’existe plus que dans la mémoire de quelques personnes âgées, il va disparaître dans la brume permanente qui baigne le monde : Bordure. Le joueur explora cet univers dangereux et pourra utiliser ses propriétés : il redessinera les cartes du monde pour le modifier, effacera dans la brume les obstacles qui se dressent sur sa route, réveillera et utilisera les mémoire des gens pour faire émerger des endroits oubliés de Bordure. ",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.rufflerim.com"
+      },
+      {
+        "title": "Macguffin",
+        "studio": "Concrete Games",
+        "summary": "“Bien. Vos billets d’avion pour Chichijima sont prêts. J’ai fait un virement bancaire au montant de 1 000 000 sur votre compte. Je vous assisterai par smartphone quand vous serez dans la centrale nucléaire. J’espère que vous comprenez que ne pas trouver le MacGuffin n’est pas une option.” Richard N MacGuffin est une comédie/aventure à la premiere personne dans un present alternatif. Le jeu est inspiré par Jazzpunk, Gravity Bone et The Stanley Parable.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://macguffin-game.com"
+      },
+      {
+        "title": "Nandeyanen!? The 1st Sûtra",
+        "studio": "Tchagata Games",
+        "summary": "Nandeyanen!? est un shoot’em up horizontal en 2D pour 1 joueur dans lequel le joueur prend le rôle de Tenguman, un ermite au long nez qui se réveille après un sommeil millénaire et voit le monde en proie à une armée de figures mythologiques. Avec un visuel et une narration en hommage à « Hanatakadaka !? », un jeu Nec Pc-Engine de 1991, le gameplay introduit des mécaniques de jeu comme le bullet counter et les blast pods. Nandeyanen!? a été entièrement financé par notre entêtement, notre naïveté, et notre amitié.",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://www.tchagata.com"
+      },
+      {
+        "title": "Neurovoider",
+        "studio": "Flying Oak Games",
+        "summary": "NeuroVoider est un twin-stick shooter RPG dans un monde futuriste contrôlé par des robots. Frayez votre chemin à travers des hordes de robots armés jusqu’aux boulons, boostez votre personnage avec les restes de vos adversaires massacrés et défiez le master NeuroVoider au rythme frénétique de la musique Dark Synth de Dan Terminus.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Rogue Like",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://neurovoider.flying-oak.com/"
+      },
+      {
+        "title": "Psycho Starship Rampage",
+        "studio": "Ballistic Frogs",
+        "summary": "Psycho Starship Rampage est un space-shooter à scrolling horizontal dans lequel 1 à 4 joueurs construisent leur vaisseau et tentent de retrouver la Terre. Assemblez votre vaisseau spatial comme vous l’entendez. Ajoutez de l’armement. Détruisez des ennemis variés à travers de nombreux niveaux et pillez leurs carcasses. Puis améliorez votre vaisseau, ajoutez encore plus d’armes et sautez vers le prochain secteur pour plus d’action !",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Shoot 'En Up",
+          "Rogue-like",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.ballisticfrogs.com"
+      },
+      {
+        "title": "Raids Of Nohosphere",
+        "studio": "Acreplume",
+        "summary": "La Nohosphère est l’incarnation de l’imaginaire collectif, peuplée de tous les mythes, toutes les pensées de toutes les époques. A l’aide de puissantes créatures, protégez les anciens équilibres, affrontez les forteresses ennemies au travers de combats alliant réflexes et stratégie. Découvrez l’Histoire et les menaces de Royaumes entre médiéval fantastique, mythologie, et traces futuristes. Une interface audio peut être activée pour les joueurs déficients visuels. (MMORPG 2D, PC Windows)",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "MMORPG",
+          "Multi",
+          "Online"
+        ],
+        "link": "http://rono.fr"
+      },
+      {
+        "title": "Samurai Riot",
+        "studio": "Wako Factory",
+        "summary": "Wako Factory est un studio de développement de jeux-vidéo coopératifs indépendant. Depuis mai 2014, la Wako team travaille sur la production de Samurai Riot, un premier titre jouable en coopération, disponible sur PC via la plateforme Steam depuis le 13 Septembre 2017.",
+        "platforms": [
+          "consoles"
+        ],
+        "keywords": [
+          "Beat'Em All",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.wakofactory.com/"
+      },
+      {
+        "title": "Shmup Creator",
+        "studio": "Bulo Studio",
+        "summary": "Le SHMUP Creator est un outil de création de jeux vidéo qui permet à tout le monde de réaliser son propre shoot’ em up, sans aucune programmation. Puissant, simple d’utilisation et aussi fun qu’un jeu, il donne la possibilité d’exprimer sa créativité, puis de partager ses créations avec ses amis ou le grand public.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": ""
+      },
+      {
+        "title": "Splasher",
+        "studio": "Splashteam",
+        "summary": "Splasher est un Plateformer 2D dans lequel vous êtes armé d’un canon à peinture surpuissant, et dont le but est de faire preuve d’adresse pour sauver un max d’innocents des griffes d’un big boss megalo. Chaque couleur de peinture offre des possibilités différentes comme se coller aux murs et aux plafonds, rebondir partout, ou encore barbouiller les ennemis pour altérer leurs comportements.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://www.splasher-game.com/"
+      },
+      {
+        "title": "Starpicker",
+        "studio": "Emedion Games",
+        "summary": "StarPicker est un jeu de course d’orientation dans un univers retrofuturiste. Sauvez le monde plongé dans le chaos depuis la disparition de la voûte céleste. Embarquez dans l’équipe de StarPicker et explorez des lieux fabuleux pour retrouver les étoiles manquantes, avec une carte et une boussole comme uniques armes. Incarnant le célèbre joueur de football américain Janus “Electric Eel” White, évoluez librement et avec agilité au travers de différents environnements et de leurs obstacles. Saurez-vous trouver le chemin le plus rapide dans cette course aux étoiles ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "https://www.facebook.com/StarPickerTheGame"
+      },
+      {
+        "title": "Steredenn",
+        "studio": "Pixelnest Studio",
+        "summary": "Pixelnest Studio est un studio de développement de jeux, d’applications et sites webs.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://pixelnest.io/"
+      },
+      {
+        "title": "Stormland",
+        "studio": "Subtle Games",
+        "summary": "Petit studio breton comptant actuellement deux membres, Subtle Games s’attache à proposer des jeux qui ont du sens, transmettre des messages tout en maintenant une expérience vidéo-ludique prenante.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "https://stormland-game.com"
+      },
+      {
+        "title": "Synchrom",
+        "studio": "Morphiks",
+        "summary": "Synchrom sous-titre : Rhythm. Skill. Flow. Dans ce jeu musical mélangeant réflexes, anticipation et sens du rythme, vous contrôlez un Synchrom, mystérieux appareil capable de canaliser les impulsions de l’énergie lumineuse.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "android"
+        ],
+        "keywords": [
+          "Jeu Musical",
+          "Solo"
+        ],
+        "link": "http://www.synchromthegame.com"
+      },
+      {
+        "title": "Save Me Mr Tako !",
+        "studio": "Christophe Galati",
+        "summary": "Christophe Galati est un développeur indépendant de 23 ans, créateur de Save me Mr Tako!, projet commencé en 2014 pour les 25 ans de la Game Boy. Sous le pseudonyme ChrisDeneos, il s’occupa de la majeur partie de la conception du jeu sur son temps libre, avec l’aide du compositeur Marc-Antoine Archier. Le jeu est maintenant édité par Nicalis et sortira sur Nintendo Switch et Steam en 2018.",
+        "platforms": [
+          "steam",
+          "switch"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://www.nicalis.com/games/savememrtako"
+      },
+      {
+        "title": "Tetrobot And Co.",
+        "studio": "Swing Swing Submarine",
+        "summary": "Tetrobot and Co. est un pur jeu de réflexion, créé par et pour des joueurs qui aiment faire travailler leurs neurones. Guidez Psychobot, un microscopique robot réparateur, dans les engrenages et les circuits de Tetrobot : en absorbant des blocs de matière et en les recrachant, vous pouvez tout remettre en place ! Facile à prendre en main, Tetrobot and Co. peut être jouer par tous. Mais vous aurez besoin d’avoir un cerveau bien entrainé si vous voulez venir à bout de ses énigmes les plus retorses.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "mobile",
+          "consoles"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://www.tetrobot.com"
+      },
+      {
+        "title": "Win That War!",
+        "studio": "Insane Unity",
+        "summary": "WinThatWar! est un jeu de stratégie en temps réel qui vous entraîne au cœur d’une féroce conquête galactique dans un univers rétrofutur décalé. En plus des modes solo et multi, le cœur du jeu réside dans sa campagne MMO, à l’échelle planétaire. Construisez vos bases, formez des alliances et coordonnez vos armées de robots pour gagner en influence au sein de votre méga-corporation !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "link": "http://www.winthatwar.com"
+      }
+    ]
+  },
+  {
+    "name": "gamejam",
+    "displayName": "Gamejam",
+    "games": [
+      {
+        "title": "Under The Sea",
+        "studio": "Nahala",
+        "summary": "Récupérez le trésor sans vous faire repérer par le phare ! Restez dans la pénombre et envoyez des ondes à vos adversaires afin d'arriver à l'objectif en premier !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "http://nahala-world.blogspot.com/2015/05/game-jam-stunjam-2015-under-sea.html"
+      },
+      {
+        "title": "Towards The Past",
+        "studio": "feoche",
+        "summary": "Manipulez l'espace-temps pour interagir avec votre environnement et vous sortir des différentes embûches, tout en évitant les pirates de l'espace !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://arthurmaugendre.wixsite.com/cgportfolio/vierge"
+      },
+      {
+        "title": "Supa Shogen No Boken",
+        "studio": "Nemotaku",
+        "summary": "Réussissez une pléthore de mini-jeux basés sur le quart de cercle tous plus délirants les uns que les autres en un minimum de temps !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Mini-Game",
+          "Solo"
+        ]
+      },
+      {
+        "title": "Silly Bundle",
+        "studio": "RegisRquoi",
+        "summary": "Ce bundle regroupe deux merveilleux jeux : Stunfest, The Game, où l'on peut assister aux dramas les plus dantesques des influenceurs du Stunfest, et Achivements, qui permet de réaliser les achivements de la Jam",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Drama",
+          "Solo"
+        ],
+        "link": "https://twitter.com/regisRquoi/status/603124596297113601"
+      },
+      {
+        "title": "Circle Survival Trip",
+        "studio": "Car De Cercles",
+        "summary": "VOilà un jeu coop où vous incarnez un car de cercles où vous devez avancer en tirant sur les vaisseaux qui veulent vous détruire ! Un runner-shumup de folie !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Runner",
+          "Shoot 'Em Up",
+          "Multi"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,691 @@
+[
+  {
+    "name": "competition",
+    "displayName": "Competition",
+    "games": [
+      {
+        "title": "Skybolt Zack",
+        "studio": "Devs Must Die",
+        "summary": "Skybolt Zack est un jeu de plateforme ultra dynamique, dont la mécanique principale s’inspire des jeux de rythme. Sauf qu’on ne joue pas en rythme. Et on saute pas beaucoup non plus... Bref si c’est pas clair, venez tester plutôt tester notre démo !",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://isart-digital.itch.io/skybolt-zack"
+      },
+      {
+        "title": "Healer's Quest",
+        "studio": "Rablo Games",
+        "summary": "Healer’s Quest est un RPG humoristique dans lequel vous jouez le rôle le plus ingrat de tout l’univers de la fantasy  : le Soigneur. Partant à l’aventure avec bande de noobs un peu louches, vous devrez maintenir vos alliés en vie à l’aide de divers sorts de magie blanche. Si vos compagnons tombent au combat, vous serez tenu pour responsable et ils pourront se mettre à bouder. Gardez-les de bonne humeur en les empêchant de mourir et en ménageant les susceptibilités lors de dialogues interactifs.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "RPG",
+          "Solo"
+        ],
+        "link": "http://healersquestgame.com/"
+      },
+      {
+        "title": "Koloro",
+        "studio": "Sköll Studio",
+        "summary": "Koloro relate l’histoire de Kora qui part à la recherche de sa soeur dans un monde imaginaire et onirique, à travers un jeu contemplatif de plateformes et de réflexion. Le jeu propose un gameplay original jouable à un seul bouton qui permettra au joueur de sauter et de sauter contre les murs pour faire demi-tour. L’aventure offre plus d’une centaines de niveaux avec plusieurs boss épiques et le tout accompagné d’un scénario intriguant. Il est aussi possible de découvrir une aventure annexe à deux joueurs en coopération dans laquelle l’entraide sera primordiale pour sortir des tableaux.",
+        "platforms": [
+          "windows",
+          "mac",
+          "mobile"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "award": "Promise Award",
+        "link": "http://skoll-studio.com/koloro.html"
+      },
+      {
+        "title": "Enigmbox",
+        "studio": "Benoît Freslon",
+        "summary": "EnigmBox est un jeu d’énigmes original dans lequel il faudra utiliser toutes les fonctionnalités et capteurs de votre téléphone pour résoudre une cinquantaine de niveaux. Attention, ne vous attendez pas à répondre aux questions d’un vieux sage à barbe blanche. Dans EnigmBox il vous faudra jouer avec toutes les fonctionnalités de votre smartphone. Manipulez et trifouiller votre appareil comme jamais : Bougez-le, tripotez-le, prenez des photos, des vidéos, parlez, branchez des trucs, appuyez sur des boutons, et bien plus encore. Plusieurs fois récompensé par pour son originalité, EnigmBox vous surprendra à chaque instant. Des enfants de 8 ans sont arrivés à résoudre 90% des énigmes les doigts dans le nez. Il suffit d’imaginer la solution la plus “simple” et la plus “logique”. Donc aucune excuse ! Ha, j’allais oublier ! Munissez-vous d’une fourchette. Oui oui !",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://www.enigmbox.com"
+      },
+      {
+        "title": "Stay Safe",
+        "studio": "Atomic Raccoon Studio",
+        "summary": "Stay Safe est un jeu de course / plateforme die and retry monojoueur. Boostez, dashez et volez pour atteindre le prochain portail. Mais attention, la piste ne va pas se laisser faire.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Course"
+        ],
+        "link": "http://www.staysafe.rocks"
+      },
+      {
+        "title": "Sumocrats",
+        "studio": "Ark Rep",
+        "summary": "Sumocrats est un jeu de sport futuriste en zéro gravité. De gigantesques corporations s’affrontent pour leur suprématie aux confins de l’espace dans des tournois ultra médiatisés. Les matches sont intenses, en 2vs2, et durent 6 minutes. Il n’y a aucun arrêt de jeu. Blitzez et punchez vos adversaires ou la balle. Chargez votre poing pour infliger un KO “instant” ou un « supershot ». Tentez le combos dash + punch pour renverser le cours du match. Sumocrats offre un mix de foule frénétique et d’ électro minimal au cœur de stations spatiales abandonnées reconverties le temps d’un match en arènes de Sumo.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Sport",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "award": "People's Choice Award",
+        "link": "http://www.sumocrats.com"
+      },
+      {
+        "title": "Epic Loon",
+        "studio": "Macrales Studio",
+        "summary": "Exigeant et décalé, Epic Loon entraîne les joueurs dans un univers étrange, regorgeant d’hommages aux grands classiques du cinéma, et leur propose de diriger un groupe d’aliens pénibles. Ils se retrouvent dans le magnétoscope de Joe , dérangés après une longue période de léthargie dans une vieille VHS de nettoyage et passent leur temps à pourrir ses films. Le jeu est basé sur un core gameplay de platformer physique, il est jouable de 1 à 4 joueurs : en mode Histoire co-op ou en mode Battle compétitif. L’ambiance créée par Epic Loon est celle d’un party game totalement déjanté, mêlant fous rires, exploits personnels et chance, le tout générant au sein d’un groupe de joueurs, une expérience de jeu unique alliant subtilement rage et bonne humeur.",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Plaftormer",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.epicloon.com"
+      },
+      {
+        "title": "Speedjail",
+        "studio": "Lightshards",
+        "summary": "Speedjail est un shoot’em up 2D rétro futuriste où votre survie dépend de votre vitesse ! Redéfinissez votre manière de jouer en parcourant des niveaux conçus autour d’une mécanique unique de scrolling et tentez de faire le meilleur score en enchaînant les destructions !",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ]
+      },
+      {
+        "title": "Orphan Age",
+        "studio": "Black Flag",
+        "summary": "Au milieu d’une guerre cyberpunk, un gang d’orphelins tente de survivre. Orphan Age est un jeu de micro-gestion dans lequel le joueur contrôle un groupe d’enfants livrés à eux-mêmes dans une ville ravagée. Il faudra leur construire une base, s’aventurer en ville pour récupérer les ressources nécessaires à la survie et s’assurer que les orphelins tiennent le coup. Orphan Age est un jeu solo créé par deux personnes qui sera bientôt présenté sur Kickstarter !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Gestion",
+          "Solo"
+        ],
+        "award": "Stunfest Indie Award",
+        "link": "http://orphan-age.com"
+      },
+      {
+        "title": "Robothorium",
+        "studio": "Goblinz Studio",
+        "summary": "Robothorium est un tour par tour futuriste mêlant Rogue Like et RPG dans lequel vos choix auront un impact direct dans votre révolution contre le genre humain.Rassemblez votre équipe de robots, choisissez vos alliés et mener vos troupes à la prochaine ère robotique.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "consoles"
+        ],
+        "keywords": [
+          "RPG",
+          "Rogue-like",
+          "Solo"
+        ],
+        "link": "http://www.robothorium.com"
+      },
+      {
+        "title": "Sigma Theory",
+        "studio": "Mi-Clos Studio",
+        "summary": "Sigma Theory est un jeu de stratégie solo en tour par tour traitant d’espionnage et de diplomatie. Alors que l’humanité vient de faire une découverte scientifique capitale, les superpuissances mondiales enclenchent une nouvelle guerre froide, cette fois-ci technologique. Votre nation vous a nommé directeur d’une cellule de renseignements spécialisée, avec une seule consigne : gagner cette guerre par tous les moyens. ",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "mobile",
+          "consoles"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "http://www.sigmatheorygame.com"
+      },
+      {
+        "title": "Freakout: TV Calamity Show",
+        "studio": "Immaterial Studio",
+        "summary": "Freakout TV Calamity Show est un Dual Stick Shooter en vue du dessus. Son gameplay tendu et brutal est inspiré des jeux d’arcade à l’ancienne et plus récents Die & Retry. Jeu Solo, l’histoire a pour point de départ une émission de Télé Réalité qui se passe dans un futur dystopique à l’univers mutant sombre et décalé. Nous incarnons un héros traîné de niveau en niveau par des ennemis loufoques dans le meilleur des cas et par des rebelles qui ont un pète au casque le reste du temps !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "TPS",
+          "Solo"
+        ],
+        "link": "https://www.facebook.com/Freakout-TV-Calamity-Show-1766440456745319/"
+      },
+      {
+        "title": "Served! A Gourmet Race",
+        "studio": "Chromatic Room",
+        "summary": "Served! est un jeu de course multijoueur (4 joueurs) en vue aérienne qui se déroule dans un univers culinaire. Il met en scène différents personnages typiques de la cuisine mondiale dans des lieux iconiques de la gastronomie locale. Les parties sont courtes et rejouables à volonté. Les différents personnages disposent tous d’une attaque propre à leur cuisine pour pimenter la partie. L’ambiance visuelle cartoon et la bande-son décalée feront voyager les joueurs de tout âge!",
+        "platforms": [
+          "windows",
+          "mac",
+          "consoles"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "https://chromaticroom.com/games/served"
+      },
+      {
+        "title": "Gladiabots",
+        "studio": "Sébastien Dubois",
+        "summary": "Gladiabots est un jeu de stratégie dans lequel vous programmez l’IA de votre équipe de robots tueurs avant de l’envoyer dans l’arène affronter les équipes d’autres joueurs.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "mobile"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "http://gladiabots.com"
+      },
+      {
+        "title": "A Long Way Down",
+        "studio": "Seenapsis",
+        "summary": "A Long Way Down Plongez dans un monde obscur et tourmenté, et défiez le sournois maître du donjon. Collectez des cartes, améliorez votre équipement, et peut-être pourrez-vous sortir de ce labyrinthe ? Mais saurez-vous faire les bons choix et convaincre vos compagnons d’infortune ? Dans ce Rogue-lite teinté de RPG, votre moralité sera la clé.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "android",
+          "consoles"
+        ],
+        "keywords": [
+          "RPG",
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "https://alwd.seenapsis.studio"
+      },
+      {
+        "title": "Lost Paulette",
+        "studio": "The Fun Institute",
+        "summary": "Lost Paulette est un jeu PC solo avec beaucoup d’action et un feeling rétro, mélangeant des séquences en 2D pixel art et des niveaux en 3D ! Il mélange des niveaux en 2D run & gun dans lesquels vous tuez un maximum de sbires de la triade chinoise et des arènes bonus en 3D dans lesquels vous prenez un gros calibre et défonce tous ses ennemis. Vous jouez Maurice, un espion français à la retraite qui doit sauver sa fille Paulette d’une triade chinoise qui l’a kidnappée pour voler ses inventions.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://thefuninstitute.itch.io/lostpaulette"
+      },
+      {
+        "title": "Fallback",
+        "studio": "Endroad",
+        "summary": "Dans ce rogue-like dystopique, incarnez des volontaires et restaurez votre civilisation au bord du déclin. Aventurez-vous dans les profondeurs d’un monde envoûtant et dangereux – rempli de pièges, d’ennemis et d’énigmes. Progressez grâce à un équipement modulable à votre convenance. Surmontez les différents types d’obstacles que vous rencontrerez et percez les mystères de votre passé !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Rogue-like",
+          "Solo"
+        ],
+        "link": "http://endroad.fr"
+      },
+      {
+        "title": "Vandals",
+        "studio": "Arte",
+        "summary": "Vandals est un jeu d’infiltration qui vous fera voyager dans les villes les plus emblématiques du street art. Dans ce jeu au tour par tour, l’objectif est d’échapper à la surveillance de la police afin de peindre des murs de plus en plus difficiles d’accès. De Paris à Tokyo en passant par São Paulo, Berlin et New York, vous pourrez ainsi marcher sur les traces des plus grands street artists comme Blek Le Rat ou Keith Haring. Vandals vous permettra de bomber votre pseudo sur les murs de New York comme Lady Pink, de dessiner des personnages enfantins à la manière de Keith Haring ou encore de vous inspirer des poèmes de Miss.Tic pour écrire les vôtres.",
+        "platforms": [
+          "windows",
+          "mac",
+          "mobile"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "http://arte.tv/vandals"
+      },
+      {
+        "title": "Homo Machina",
+        "studio": "Arte",
+        "summary": "Homo Machina est un puzzle narratif, inspiré de l’œuvre avant-gardiste du scientifique Fritz Kahn. Plongez l’espace d’une folle journée à l’intérieur du corps humain, représenté comme une gigantesque usine des années 20 et laissez vous guider par une narration poétique et surréaliste. Évoluez dans un agencement ingénieux de nerfs, de vaisseaux et de valves. Objectif : parvenir, en une trentaine d’étapes à faire tourner cette incroyable usine. Chaque séquence décortique nos petites actions quotidiennes dans un gameplay intuitif et inventif. Pionnier de l’infographie et vulgarisateur scientifique, Fritz Kahn avait imaginé des analogies parlantes et visionnaires pour faire comprendre le fonctionnement du corps humain. Combinant “design old school et touche contemporaine”, Homo Machina distille de savoureux dialogues entre un directeur tête en l’air aux commandes de ce corps machine, et Josiane, sa secrétaire pleine de zèle, incitant ainsi le joueur à faire travailler une armada d’ouvriers. ",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://arte.tv/homomachina-game"
+      }
+    ]
+  },
+  {
+    "name": "village",
+    "displayName": "Village",
+    "games": [
+      {
+        "title": "Akimo: L'Odyssée Des Mots Magiques",
+        "studio": "Bryo Studio",
+        "summary": "Bryo Studio a pour mission de développer des jeux vidéo éducatifs conçus pour assister les spécialistes en éducation et en santé dans leurs tâches avec leurs apprenants.",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "https://www.bryostudio.com/"
+      },
+      {
+        "title": "Guards !",
+        "studio": "Mirum Studio",
+        "summary": "Mirum Studio est une entreprise de développement de logiciels, spécialisée dans la conception de jeux vidéo. Évoluant avec une mission forte qui est d’utiliser le pouvoir de l’émerveillement pour créer des expériences captivantes qui injuencent le quotidien de ses joueurs, le studio se dirige pour travailler uniquement sur ses créations originales, mais offre des services de conception pour avoir un bon fonds de roulement.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Coop",
+          "Multi"
+        ],
+        "link": "http://www.mirumstudio.com/"
+      },
+      {
+        "title": "Soup Raiders: Jailbreak",
+        "studio": "Team Kwakwa",
+        "summary": "Team-KwaKwa is a indie game studio creating game for game jams and bigger commercial projects.\n\n",
+        "platforms": [
+          "gameboy"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://www.team-kwakwa.com/"
+      },
+      {
+        "title": "Looking For Imago",
+        "studio": "Aurelien Da Campo",
+        "summary": "Looking for Imago est un jeu de plateforme et de réflexion dans lequel vous incarnez un petit personnage égaré dans le royaume des insectes depuis plusieurs années déjà. Guidés par votre instinct, vous décidez aujourd’hui de partir en quête d’Imago, le vôtre, car il n’est jamais trop tard…",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://looking-for-imago.com"
+      },
+      {
+        "title": "Modsork",
+        "studio": "David Canela",
+        "summary": "MODSORK est un jeu d’arcade qui retourne le cerveau: Le joueur contrôle deux objets à la fois, chacun avec un stick de sa manette. Pour scorer, le joueur peut créer un laser entre eux pour détruire les ennemis rentrant en contact avec lui. En plus, les ennemis se bougent en rythme de la musique, qui pour sa part s’adapte aux événements du jeux. MODSORK a un mode classique et un mode coopératif.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Arcade",
+          "Solo"
+        ],
+        "link": "http://modsork.com/"
+      },
+      {
+        "title": "Don't Kill Her",
+        "studio": "Wuthrer",
+        "summary": "Don’t Kill Her est un plateformer étrange et mignon à la fois. Entièrement dessiné à la main, son intrigue a pour personnage principal une femme qui ne cesse de répéter au joueur qu’il est son meurtrier. L’aventure est jalonnée d’étonnantes surprises, dont il faudra démêler les tenants et aboutissants afin de percer les mystères de cet énigmatique univers.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://wuthrer.net/dontkillher/"
+      },
+      {
+        "title": "Dead Cells",
+        "studio": "Motion Twin",
+        "summary": "Motion Twin is an anarcho-syndical (seriously) workers cooperative that is been making games in France since 2001. No boss, equal pay.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://motion-twin.com/fr/"
+      },
+      {
+        "title": "Domiverse",
+        "studio": "Haunted Tie",
+        "summary": "Vous avez 3 amis ? Défiez les à Domiverse et prouvez votre talent de gamer ! Choisissez parmi 8 héros aux capacités aussi surprenantes que variées, et remportez le tournoi Domiverse.\n\nVous serez instantanément plongé dans son univers plein de limaces et de chats via un gameplay intuitif et dynamique où chaque attaque est fatale. Et si vous n’avez pas 3 amis, vous pouvez quand même jouer à 2 ou 3.",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "https://domiverse.be/"
+      },
+      {
+        "title": "Hyperun",
+        "studio": "Concrete Games",
+        "summary": "Constitué de Corentin (@CorentinDerbre), Mathieu (@MatoLabu) et Tom (@Tomavatars), Concrete Games crée des jeux vidéo uniques et extrêmes depuis 2015.\n\n",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Runner",
+          "Solo",
+          "Online"
+        ],
+        "link": "http://concretegames.xyz"
+      },
+      {
+        "title": "Save Me Mr Tako !",
+        "studio": "Christophe Galati",
+        "summary": "Christophe Galati est un développeur indépendant de 23 ans, créateur de Save me Mr Tako!, projet commencé en 2014 pour les 25 ans de la Game Boy. Sous le pseudonyme ChrisDeneos, il s’occupa de la majeur partie de la conception du jeu sur son temps libre, avec l’aide du compositeur Marc-Antoine Archier. Le jeu est maintenant édité par Nicalis et sortira sur Nintendo Switch et Steam en 2018.",
+        "platforms": [
+          "steam",
+          "switch"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://www.nicalis.com/games/savememrtako"
+      },
+      {
+        "title": "Samurai Riot",
+        "studio": "Wako Factory",
+        "summary": "Wako Factory est un studio de développement de jeux-vidéo coopératifs indépendant. Depuis mai 2014, la Wako team travaille sur la production de Samurai Riot, un premier titre jouable en coopération, disponible sur PC via la plateforme Steam depuis le 13 Septembre 2017.",
+        "platforms": [
+          "consoles"
+        ],
+        "keywords": [
+          "Beat'Em All",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.wakofactory.com/"
+      },
+      {
+        "title": "Double Kick Heroes",
+        "studio": "Headbang Club",
+        "summary": "DU METAL, DES ZOMBIES, DES SULFATEUSES, WHAT MOAR?!",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://dkh.rocks"
+      },
+      {
+        "title": "Stormland",
+        "studio": "Subtle Games",
+        "summary": "Petit studio breton comptant actuellement deux membres, Subtle Games s’attache à proposer des jeux qui ont du sens, transmettre des messages tout en maintenant une expérience vidéo-ludique prenante.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "https://stormland-game.com"
+      },
+      {
+        "title": "Steredenn",
+        "studio": "Pixelnest Studio",
+        "summary": "Pixelnest Studio est un studio de développement de jeux, d’applications et sites webs.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://pixelnest.io/"
+      },
+      {
+        "title": "Chop",
+        "studio": "Claws Up Games",
+        "summary": "Claws Up Games est un studio indépendant fondé par deux français.",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "http://chop-thegame.com/"
+      },
+      {
+        "title": "City Invaders",
+        "studio": "Lone Stone",
+        "summary": "Lone Stone est un studio indépendant créé en 2014 et basé à Nantes. Notre but est de créer des jeux Free2Play innovants et de qualité. Nous travaillons en ce moment sur notre premier jeu, City Invaders, un MMORPG tactique géolocalisé. Nous pensons que Free2Play ne veut pas dire “jeu de seconde zone”, mais qu’à l’inverse ce mode de commercialisation ouvre de nouvelles possibilités de gameplay.",
+        "platforms": [
+          "steam",
+          "mobile"
+        ],
+        "keywords": [
+          "RPG",
+          "Multi"
+        ],
+        "link": "https://cityinvaders.game/fr-FR/"
+      }
+    ]
+  },
+  {
+    "name": "prototypes",
+    "displayName": "Prototypes",
+    "games": [
+      {
+        "title": "Dunst - Le Manuscrit De L'Aube",
+        "studio": "Marble Oak",
+        "summary": "Voici le pitch : Via un jeu d’action/aventure en top-view, vous suivrez l’histoire de Colin et de ses amis orphelins. Quittant un Londres de 1940 meurtri par la guerre, nos héros rejoignent un monde où l’écriture règne. Soyez la plume qui guide leur épopée au travers d’une histoire dont vous êtes l’auteur. Pour la démo du salon, les joueurs débuteront dans l’orphelinat de Stockwood où ils prendront le contrôle de différents protagonistes, utilisant les spécificités de chacun pour surmonter les épreuves qui se présenteront sur leur chemin.",
+        "platforms": [
+          "windows",
+          "linux"
+        ],
+        "keywords": [
+          "Action",
+          "Solo"
+        ],
+        "link": "https://dunst-game.com"
+      },
+      {
+        "title": "Bomb N' Bats",
+        "studio": "Kesyd Games",
+        "summary": "Jeu compétitif multijoueur jusqu’à 4 en local. Jeu commencé il y a plus de 2 ans à l’origine pour jouer ensemble avec toute la famille et notamment mes fils. Pas besoin de notice ou d’explications, manette en main la règle du jeu est claire : tuer ou être tué. Pour le ton du jeu, un mix de Combat sur Atari 2600 et de Bomberman, avec et un zeste de Unreal Tournament pour l’ambiance sonore. Option Deathmatch ou Team Deathmatch.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ]
+      },
+      {
+        "title": "It's Paper Guy!",
+        "studio": "Paper Team",
+        "summary": "It’s Paper Guy est un jeu de plateforme-aventure en 2.5D dans un univers intégralement fait de papier. Le joueur contrôle un petit personnage en papier, et progresse en découpant divers éléments du monde!",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://twitter.com/ItsPaperGuy"
+      },
+      {
+        "title": "Kaiju Snap",
+        "studio": "CNAM ENJMIN",
+        "summary": "Kaiju Snap est un jeu VR solo jouable à l’aide d’une manette. Le joueur contrôle un drône sur une île paradisiaque mystérieuse afin de la documenter en la photographiant.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "VR",
+          "Solo"
+        ],
+        "link": "https://team-kaiju.itch.io/kaiju-snap"
+      },
+      {
+        "title": "A Time Paradox",
+        "studio": "A Game Studio",
+        "summary": "Toutes les 3 secondes, vous remontez le temps. Trouvez un chemin pour éviter les paradoxes temporels dans ce jeu de réflexion conçu pour Android.",
+        "platforms": [],
+        "keywords": [],
+        "link": ""
+      },
+      {
+        "title": "Kiss Or Kill",
+        "studio": "Overgame Studio",
+        "summary": "Dans KissOrKill vous êtes seul et vous devrez relever le défi qui vous est lancé en tant que joueur. Pour venir à bout de ce shoot-them-up vous devrez choisir entre la voie de l’amour ou celle de la mort. à travers une multitude de niveaux court et graphiquement variés vous devrez assumer les choix de vos actes.",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://kissorkillgame.com/"
+      },
+      {
+        "title": "Super Battle Kube",
+        "studio": "Julien Jacquart",
+        "summary": "Super Battle Kube est un twin stick shooter convivial jouable jusqu’à 4 joueurs en local. Sa particularité est de proposer un gameplay nerveux dans des environnements kubiques dont la gravité se trouve au centre du kube en question. Prendre des décisions stratégiques peut porter ses fruits mais attention à ne pas trop réfléchir car un adversaire purement offensif à aussi ses chances de parvenir à ses fins.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Multi"
+        ],
+        "link": "https://twitter.com/NeilujKarja"
+      },
+      {
+        "title": "Bombert",
+        "studio": "Pictopals",
+        "summary": "Bombert est un brawler platformer explosif en multijoueur local. Chaque joueur incarne une bombe qui détruit tout ce qui l’entoure à chaque saut. Le but du jeu est de survivre à la destruction du décor et aux autres joueurs. Bombert peut se jouer de 2 à 4 joueurs, dans une ambiance de compétition entre amis.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ]
+      },
+      {
+        "title": "Pile Up!",
+        "studio": "Seed By Seed",
+        "summary": "Bondissez sur vos ami·e·s, empilez vous et explorez ensemble un joyeux monde de carton ! Pile Up est un adorable jeu coopératif de plateformes et de puzzle en 3D qui peut se jouer jusqu’à quatre personnes !",
+        "platforms": [
+          "windows",
+          "mac",
+          "switch"
+        ],
+        "keywords": [
+          "Platformer",
+          "Puzzle",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://www.pileupgame.com/"
+      },
+      {
+        "title": "Teabag Break",
+        "studio": "Pause Café Kung-fu",
+        "summary": "Teabag Break est un jeu de combat 1v1 en 2D inspiré des meilleurs titre versus de type arcade. Mais il y a un twist, dans Teabag Break les dommages ne sont pas infligés tant qu’un combo n’est pas confirmé par une Pose de victoire. Lancer une pose rend le joueur vulnérable il faut donc bien juger son timing ! Ce système encourage à des combats dynamiques plein de rebondissement et de retournements de situation !",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Combat",
+          "Multi"
+        ],
+        "link": "http://bit.ly/TeabagBreak"
+      },
+      {
+        "title": "Wizama",
+        "studio": "Wizama",
+        "summary": "Notre console de jeux de société se compose d’un plateau de jeu doté d’un écran tactile et d’éléments de jeux connectés (cartes, dés et pions) permettant des interactions entre objets physiques et mondes numériques. Aujourd’hui wizama a développé 3 jeux spécialement conçus pour cette console avec un gameplay hybride à la croisée du tangible et du digital.",
+        "keywords": [
+          "Jeu de société",
+          "Multi"
+        ],
+        "link": "http://www.wizama.com/"
+      }
+    ]
+  },
+  {
+    "name": "gamejam",
+    "displayName": "Gamejam",
+    "games": [
+      {
+        "title": "Bonjour, Helen",
+        "studio": "Studio Casserole",
+        "summary": "Bonjour Helen explore le thème du refuge.  L'idée était de faire un jeu sensible, qui trouve un équilibre entre gameplay et narration. Nous voulions que chaque personne dans l'équipe puisse s'exprimer sur le projet, et que tout soit créé spécifiquement pour cette expérience de jeu.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "award": "GameJam Award",
+        "link": "https://felixelvis.com/bonjour-helen"
+      },
+      {
+        "title": "Sanity Rush",
+        "studio": "zriL",
+        "summary": "Need a fix? Play our trippy puzzle game \"Sanity Rush\" made in 48h for the Stun Jam #gamejam. The theme was \"Refuge\".",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "https://zril.itch.io/sanity-rush"
+      }
+    ]
+  }
+]

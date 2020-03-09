@@ -1,0 +1,94 @@
+[
+  {
+    "name": "presentation",
+    "displayName": "Présentation",
+    "games": [
+      {
+        "title": "Koikoukesse",
+        "studio": "Pixelnest",
+        "summary": "Koikoukesse est un jeu vidéo de quizz fait en collaboration avec Laurent Brossard. Connaissez-vous vos classiques? Trouvez un nom d'une simple image en solo ou en multi. Gagnez des pièces et débloquez des thèmes et d'autres modes de difficulté. Battez aussi vos amis en ligne !",
+        "platforms": [
+          "web",
+          "mobile"
+        ],
+        "keywords": [
+          "Party Game",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "link": "https://pixelnest.io/products/koikoukesse/"
+      },
+      {
+        "title": "George Le Pirate",
+        "studio": "Pixelnest",
+        "summary": "Nous aimons tous l'or. George aussi ! George est un pirate amical en recherche d'aventure. Il trouve des îles au trésor où il doit trouver des coffres enterrés remplis de belles pièces en or la journée, et doit rentrer chez lui le soir. Mais d'autres priates veulent également voler son argent, alors il doit utiliser son bon vieux shotgun pour protéger ses trésors ! Montez à bord avec George ! En route pour de nouvelles aventures !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Leap Motion",
+          "Solo"
+        ],
+        "link": "https://www.youtube.com/watch?v=RYJZvZfvyZY"
+      },
+      {
+        "title": ".the rush//",
+        "studio": "Skaven",
+        "summary": "Avec ses faux-airs de F-Zero et de Wipeout, .the rush// fait partie de ces jeux de course futuristes disposant de tracés hallucinants et de décors magnifiques à vous en décoller la rétine.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Course",
+          "Solo"
+        ],
+        "link": "https://www.youtube.com/watch?v=RYJZvZfvyZY"
+      },
+      {
+        "title": "Lije",
+        "studio": "Rufflerim",
+        "summary": "Dans les brumes permanentes d’une étrange contrée, une jeune femme lutte pour sortir du chemin qui a été tracé pour elle par des hommes, des sociétés et des dieux. Lije est un RPG 2D, inspiré à la fois de la tradition japonaise (personnages forts) et de la tradition occidentale (liberté d’action dans un univers cohérent). Le jeu est prévu en 5 épisodes. Dans l’univers de Lije, la croyance crée le réel. Si une rumeur se répand suffisamment, elle va se matérialiser. Au contraire, si un individu se retrouve isolé, si un endroit n’existe plus que dans la mémoire de quelques personnes âgées, il va disparaître dans la brume permanente qui baigne le monde : Bordure. Le joueur explora cet univers dangereux et pourra utiliser ses propriétés : il redessinera les cartes du monde pour le modifier, effacera dans la brume les obstacles qui se dressent sur sa route, réveillera et utilisera les mémoire des gens pour faire émerger des endroits oubliés de Bordure.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.rufflerim.com"
+      },
+      {
+        "title": "Piyo Piyo",
+        "studio": "MrLapinou",
+        "summary": "Vous incarnez Piyo, petit oiseau mignon qui doit défier les méchants ennemis sur son passage tout en utilisant son balancier comme projectile.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Leap Motion",
+          "Coop"
+        ],
+        "link": "https://www.youtube.com/watch?v=wF-ADywfjHk"
+      },
+      {
+        "title": "4theking",
+        "studio": "Studio Quendi",
+        "summary": "Défendez le roi des envahisseurs à l'aide de 18 tours avec des effets particuliers, en solo ou en coopération jusqu'à 4. Améliorez vos tours grâce à un arbre de compétences poussé",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Tower Defense",
+          "Stratégie",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://www.youtube.com/watch?v=cETnIdQXrJk"
+      }
+    ]
+  }
+]

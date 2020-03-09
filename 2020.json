@@ -1,0 +1,389 @@
+[
+  {
+    "name": "indieawards",
+    "displayName": "Indie Awards",
+    "games": [
+      {
+        "title": "Spellcaster university",
+        "visibleDate": "2020-03-06T09:00:00",
+        "studio": "Sneaky Yak Studio",
+        "summary": "Dans Spellcaster University, vous endossez le rôle du directeur d’une université de magie dans un monde d’heroic fantasy haut en couleur. Bâtissez votre école, gérez votre budget, recrutez des professeurs. \nEn ferez vous un haut lieu de la magie noire, avec les meilleurs professeurs de nécromancie et de démonologie ? Ou un lieu en harmonie avec la nature pour entraîner druides et shamans ? Ou pourquoi ne pas former des mages aventuriers, en leur proposant des options pour apprendre à se battre et à être discrets ? Il faudra pour cela survivre aux impitoyables attaques des tribus orcs et aux contrôles du rectorat.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/SneakyYakStudio",
+          "facebook": "https://www.facebook.com/SneakyYakStudio",
+          "instagram": "https://www.instagram.com/sneakyyak_studio"
+        },
+        "link": "https://sneakyyakstudio.com"
+      },
+      {
+        "title": "Block Chain battle",
+        "visibleDate": "2020-03-06T09:00:00",
+        "studio": "Play Curious",
+        "summary": "Percer les secrets de la blockchain !\nVous incarnez Draper, un hacker expert en cryptographie en cyber-sécurité.\nL’aventure commence lorsqu’un dénommé Smith vous propose de tester la sécurité d’une nouvelle cryptomonnaie, Octor.\nQui se cache derrière Octor ? Quel est son véritable but ?\n\nCe sera à vous de le découvrir, en perçant les failles d’un système qui devient de plus en plus sophistiqué.\nUtilisez de vraies notions de cryptographie telles que la fonction de hachage et la signature numérique afin de détecter des fraudes.\nUn jeu accessible gratuitement sur mobile, tablette ou desktop !",
+        "platforms": [
+          "web"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/PlayCuriousGame",
+          "facebook": "https://www.facebook.com/PlayCurious"
+        },
+        "link": "https://playcurious.games/fr"
+      },
+      {
+        "title": "Spliti",
+        "visibleDate": "2020-03-06T09:00:00",
+        "studio": "PHLEGMAGAMES",
+        "summary": "Spliti est un jeu de plateforme/puzzle contemplatif qui se déroule dans un monde poétique. L'atmosphère est magnifiée par l'utilisation de graphiques épurés.\nVous jouez au travers l'esprit d'un scientifique. Ce héro est bloqué dans un cube d'énergie à la suite d'une expérience ratée. Vous aurez besoin d'être malin et habile pour passer les obstacles et aider le héros à regagner son corps.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/PhlegmaGames",
+          "facebook": "https://www.facebook.com/Phlegmagames"
+        },
+        "link": "https://splitigame.com"
+      },
+      {
+        "title": "Kairo's Light",
+        "visibleDate": "2020-03-11T09:00:00",
+        "studio": "Let's Develop Change",
+        "summary": "Dans un futur aux contours sombres et énigmatiques, un vieil homme triste, Edmond, appelle à l'aide dans un dernier espoir. Entendant son appel, le mage Kairos, dont les pouvoirs sont infinis, lui donne une chance de revivre sa jeunesse pour changer sa destinée\nAprès un voyage temporel vivifiant, vous incarnez Edmond dans son plus bel âge, celui des rencontres au bar et des choix de vie, dans l'agréable ville de Thésye. Dans ce jeu de gestion, vos choix auront un impact sur l'avenir d'Edmond et ses futurs alternatifs possibles.",
+        "platforms": [
+          "windows",
+          "android"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/KairosLight",
+          "facebook": "https://www.facebook.com/KairosLight",
+          "instagram": "https://www.instagram.com/jeukairoslight"
+        },
+        "link": "https://www.kairoslight.fr"
+      },
+      {
+        "title": "Dice of Olympus ",
+        "visibleDate": "2020-03-11T09:00:00",
+        "studio": "Anton Bodin Marty",
+        "summary": "Dice Of Olympus est un jeu d'affrontement en 1 contre 1 à base de Dé. Le jeu est un mélange entre Magic/Hearthstone et le Yahtzee. Chaque joueur dispose de 5 dé (1 de mana et 4 de sorts personnalisés) qui compose son \"set\". Chaque joueurs peut relancer jusqu'a 2 fois autant de dé qu'il désire. A la fin de ces 2 relances les 2 joueurs lancent leur sorts dans le but de faire tomber les points de vie de l'adversaire",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/DiceOfOlympus",
+          "facebook": "https://www.facebook.com/DiceOfOlympus"
+        },
+        "link": "https://dice.oathr.com"
+      },
+      {
+        "title": "Horribunnies",
+        "visibleDate": "2020-03-11T09:00:00",
+        "studio": "Quasiphies",
+        "summary": "Dans Horribunnies, tu élèves et cajoles des lapinous trop choupis :3 \nNourris-les, joue avec eux et chéris-les autant que leurs futures familles !\nLes lapinous doivent être nourris, brossés, choyés, caressés et lavés T-O-U-S L-E-S J-O-U-R-S mais surtout... ils doivent se sentir aimés ! (灬♥ω♥灬)\nTout est aussi choupi et mignon que possible, entre graphismes tout chous et musiques charmantes, tu ne peux que fondre de bonheur <3",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/Horribunnies",
+          "facebook": "https://facebook.com/Horribunnies",
+          "instagram": "https://instagram.com/Horribunnies"
+        },
+        "link": "https://horribunnies.com"
+      },
+      {
+        "title": "Promenade, A farewell to August",
+        "visibleDate": "2020-03-13T09:00:00",
+        "studio": "Holy Cap",
+        "summary": "Promenade est un platformer 2D mêlant aventure, exploration, énigmes et action au sein d'un univers onirique et surprenant sorti de l'imaginaire fabulé d'un enfant. Vous incarnerez un petit personnage qui devra résoudre les énigmes au cours de votre épopée. Le contenu visuel est  composé de dessins/animations traditionnels.",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "facebook": "https://www.facebook.com/holycapstudio"
+        },
+        "link": "https://www.facebook.com/holycapstudio"
+      },
+      {
+        "title": "Time Rift: Escape From Speedjail",
+        "visibleDate": "2020-03-13T09:00:00",
+        "studio": "Lightshards",
+        "summary": "Time Rift est un jeu de puzzle frénétique mettant en scène une mécanique de mouvement unique en plus de la manipulation du temps.\n\nRéparez vos erreurs et résolvez les puzzles grâce à votre capacité de rembobinage.\n\nL'objectif est simple : Être aussi rapide que possible pour survivre à la faille temporelle et inscrire votre score dans les classements en ligne !",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "link": "https://gamejolt.com/games/timerift/373757"
+      },
+      {
+        "title": "Nick Reckless In The Curse of the Lost Cause",
+        "visibleDate": "2020-03-13T09:00:00",
+        "studio": "Akedo Studio",
+        "summary": "Une terrible malédiction s'est abattue sur notre héro.\nPour s'en débarrasser, il lui faudra remettre certaines choses à leur place.\nNotre héro devra surmonter les obstacles qui se dressent sur son chemin.\nMais la malédiction lui laissera-t-il la chance de parvenir à ses fins?",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/AkedoStudio",
+          "facebook": "https://www.facebook.com/akedostudio",
+          "instagram": "https://www.instagram.com/akedo_studio"
+        },
+        "link": "https://www.akedostudio.com"
+      },
+      {
+        "title": "Haven",
+        "visibleDate": "2020-03-18T09:00:00",
+        "studio": "Game baker",
+        "summary": "Haven est un RPG d'aventure sur l'amour au quotidien et la rébellion contre les règles. Vous jouez le rôle de Yu et Kay, qui se sont échappées vers une planète oubliée. Incarnez les deux amoureux qui s'installent dans un monde inconnu. Survivez ensemble, glissez sur les plaines, campez, restaurez la planète, combattez s'il le faut. Tout ce qui compte, c'est de rester ensemble. Une aventure RPG sur l'amour et la liberté. Pour jouer en solo ou en coopération avec une personne spéciale.",
+        "platforms": [
+          "windows",
+          "mac",
+          "switch"
+        ],
+        "networks": {
+          "twitter": "twitter.com/TheGameBakers",
+          "facebook": "facebook.com/TheGameBakers"
+        },
+        "link": "thegamebakers.com/haven"
+      },
+      {
+        "title": "Arisen",
+        "visibleDate": "2020-03-18T09:00:00",
+        "studio": "Maratus",
+        "summary": "Plongez dans le Var'Nagal, un monde rempli de mystères. Votre tribu nomade a été vaincue. L'armée de Maccialatt ne cherche pas à cacher la vérité : vous allez être vendu comme esclave. Malgré les chaînes autour de vos poignets, cette histoire est la vôtre. La liberté vous tend la main : vous élèverez vous ?\n\nARISEN est un jeu de cartes narratif où vos émotions vous guideront à travers l'histoire. Chaque carte représente une émotion. Explorez votre environnement et faites progresser vos relations pour débloquer de nouvelles cartes et élargir vos possibilités d'interactions.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "networks": {
+          "twitter": "http://twitter.com/MaratusGames",
+          "facebook": "http://facebook.com/MaratusGames"
+        },
+        "link": "http://www.maratusgames.com"
+      },
+      {
+        "title": "Cyberhook",
+        "visibleDate": "2020-03-18T09:00:00",
+        "studio": "Blazing Stick",
+        "summary": "CyberHook est un jeu de parkour 3D qu'on pourrait qualifier de \"\"Spiderman dans l'univers de Tron\"\" ! \n\n\nAxé speedrun et performance dans un monde retrowave, les joueurs doivent utiliser un grappin et différentes techniques comme du wall-run, timewarp, etc pour finir les différents niveaux le plus vite possible. \nLes niveaux sont partiellement ouverts pour encourager les joueurs à péter le design, manipulez le temps et trouver des routes alternatives. Bonne chance à vous !",
+        "platforms": [
+          "windows",
+          "switch"
+        ],
+        "link": "https://www.graffitigames.com/cyberhook"
+      },
+      {
+        "title": "dont_forget_me",
+        "visibleDate": "2020-03-20T09:00:00",
+        "studio": "The Moon Pirates",
+        "summary": "Dont Forget Me est un jeu d'enquête narrative dans un univers \"\"cyberpunk noir\"\".\nLe jeu se déroule dans un monde totalitaire, contrôlé par une méga-entreprise. Pour éviter de répéter les erreurs du passé, chaque individu a choisi d'avoir une puce qui enregistre tous ses souvenirs.\nVous jouez le rôle de Fran, une femme amnésique qui est prise en charge par Bernard qui mène une activité illégale de copie de mémoire. Un jour, l'arrivée d'un membre des \"\"oubliés\"\", vous entraînera dans un combat idéologique. Cette quête vous confrontera aux autres et à vous-même.\nComment choisirez-vous de mener ce combat ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/TheMoonPirates"
+        },
+        "link": "https://gamejolt.com/games/dont-forget-me/441430"
+      },
+      {
+        "title": "Puzzle Forge Dungeons",
+        "visibleDate": "2020-03-20T09:00:00",
+        "studio": "Tuesday Quest",
+        "summary": "Puzzle Forge Dungeon est un dungeon crawler original de la série des Puzzle Forge ou vous forgez des armes et affrontez vos adversaires avec vos créations. Chaque situation de combat est unique et demande une utilisation réfléchie de vos ressources et de votre talent de forgeron. Explorez le donjon et essayez d’atteindre le dernier étage où seuls les vrais forgeheroes ont posé l’enclume.",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/TuesdayQuest",
+          "facebook": "https://www.facebook.com/tuesdayquest"
+        },
+        "link": "http://www.tuesdayquest.com"
+      },
+      {
+        "title": "Save your nuts",
+        "visibleDate": "2020-03-25T09:00:00",
+        "studio": "Triple Scale Games",
+        "summary": "Devenez fou dans Save Your Nuts, un jeu multijoueur finement déguisé en sport de forêt loufoque. Mettez vos compétences de coopération à l'épreuve lors de batailles intenses basées sur la physique, âmes sensibles, préparez vous !",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/TripleScale",
+          "facebook": "https://www.facebook.com/SaveYourNutsGame",
+          "instagram": "https://www.instagram.com/triplescalegames"
+        },
+        "link": "http://triplescalegames.com"
+      },
+      {
+        "title": "Sbirz",
+        "visibleDate": "2020-03-25T09:00:00",
+        "studio": "Splashteam",
+        "summary": "Incarnez Angus, cadre moyen du département marketing, qui se retrouve un jour propulsé par mégarde dans une dimension parallèle. Dans ce monde hostile habité par le bizarre et l’inconnu, il va rencontrer le petit peuple des Sbirz, dont il devra solliciter les pouvoirs dans l'espoir de rentrer un jour à la maison.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "link": "https://twitter.com/SplashteamDevs"
+      },
+      {
+        "title": "The Mint Sword",
+        "visibleDate": "2020-03-25T09:00:00",
+        "studio": "Pixel Archipel",
+        "summary": "The Mind Sword est un jeu de combat avec des déplacements case par case.\nDans ce jeu, vous incarnerez des animaux samouraïs, inspirés par l'Usagi Yojimbo, pour la partie gameplay et Megaman Network pour son gameplay mêlant mouvement de grille et confrontation en temps réel.\nVoilà un jeu qui demande de la rapidité des réflexes et de l'esprit !\n\nMultijoueur local à 1 ou 2 joueurs, en mode versus et en mode coop story.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/2Pblog1"
+        },
+        "link": "https://pixel-boy.itch.io/the-mind-sword"
+      }
+    ]
+  },
+  {
+    "name": "village",
+    "displayName": "Village",
+    "games": [
+      {
+        "title": "Dunst",
+        "visibleDate": "2020-05-01T09:00:00",
+        "studio": "Marble oak",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/Dunst_game",
+          "facebook": "https://www.facebook.com/dunstgame",
+          "instagram": "https://www.instagram.com/dunstgame"
+        },
+        "link": "https://dunst-game.com/home"
+      },
+      {
+        "title": "Abiding Bridge",
+        "visibleDate": "2020-05-01T09:00:00",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/AbidingBridge",
+          "facebook": "https://www.facebook.com/AbidingBridge"
+        },
+        "link": "https://abidingbridge.com"
+      },
+      {
+        "title": "Plaine Images",
+        "visibleDate": "2020-05-01T09:00:00",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/plaineimages",
+          "facebook": "https://www.facebook.com/plaine.images",
+          "instagram": "https://www.instagram.com/plaineimages"
+        },
+        "link": "https://www.plaine-images.fr"
+      },
+      {
+        "title": "WALGA",
+        "visibleDate": "2020-05-01T09:00:00",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/WALGAbe",
+          "facebook": "https://www.facebook.com/walga.be"
+        },
+        "link": "http://www.walga.be"
+      },
+      {
+        "title": "SwissGames",
+        "visibleDate": "2020-05-01T09:00:00",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/gameculture_ch"
+        },
+        "link": "https://swissgames.ch"
+      }
+    ]
+  },
+  {
+    "name": "prototypes",
+    "displayName": "Prototypes",
+    "games": [
+      {
+        "title": "Perfect Teams",
+        "visibleDate": "2020-05-01T09:00:00",
+        "studio": "Lys games",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "link": "http://www.perfectteams.sitew.com"
+      },
+      {
+        "title": "Square Nose Color",
+        "visibleDate": "2020-05-01T09:00:00",
+        "studio": "Juice Lizard",
+        "summary": "",
+        "platforms": [
+          "gamebuino"
+        ],
+        "link": "www.juicelizard.com"
+      },
+      {
+        "title": "Projet Folklore",
+        "visibleDate": "2020-05-01T09:00:00",
+        "studio": "Radio Clock",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "link": ""
+      },
+      {
+        "title": "Six months too late",
+        "visibleDate": "2020-05-01T09:00:00",
+        "studio": "Furious Pixel",
+        "summary": "",
+        "platforms": [
+          "windows"
+        ],
+        "link": "http://furiouspixel.com"
+      },
+      {
+        "title": "Unmaze",
+        "visibleDate": "2020-05-01T09:00:00",
+        "studio": "Upian",
+        "summary": "",
+        "platforms": [
+          "mobile"
+        ],
+        "networks": {
+          "twitter": "https://twitter.com/upian",
+          "facebook": "https://www.facebook.com/upian"
+        },
+        "link": "https://www.upian.com/en/project/unmaze"
+      }
+    ]
+  },
+  {
+    "name": "gamejam",
+    "displayName": "Gamejam",
+    "games": []
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "presentation",
+    "displayName": "Présentation",
+    "games": [
+      {
+        "title": "aWay Project",
+        "studio": "aWay team",
+        "summary": "aWAY est une expérience interactive qui questionne sur le dilemme que l’on peut ressentir dans le choix entre Rêve et Réalité.\n\nUne expérience sous deux formes interconnectées :\n\nL’une très immersive et solitaire pour la personne plongée dans le subconscient (à l’aide un casque de réalité virtuelle).\nL’autre plus accessible et plus ancrée dans le réel pour interagir avec le subconscient de la personne immergée (par le biais d’un périphérique tactile).\nOù l’expérience vous mènera-t-elle ?",
+        "platforms": [
+          "windows",
+          "mac",
+          "ios"
+        ],
+        "keywords": [
+          "VR",
+          "Solo"
+        ],
+        "link": "http://novaplay.me/away"
+      },
+      {
+        "title": "Birth of Papyrus",
+        "studio": "Frenetic Experience Studio",
+        "summary": "Birth of Papyrus est un jeu d’aventure/plateforme/réflexion où vous incarnez Jem, une jeune fille fantomatique qui voyage entre deux mondes accompagnée par son ami imaginaire.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://www.freneticexperience.com/press/sheet.php?p=birth_of_papyrus"
+      },
+      {
+        "title": "Brezeliad : A Tale of Brocéliande",
+        "studio": "YoruNoHikage",
+        "summary": "Venez défendre les châteaux et tours de Brocéliande à l’aide d’armes et de sorts en tout genre. Des niveaux spéciaux sont même présents pour le Stunfest !",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Tower Defense",
+          "Solo"
+        ],
+        "link": "http://brezeliad.yorunohikage.fr/presskit/"
+      },
+      {
+        "title": "Cubot",
+        "studio": "Nicoplv Games",
+        "summary": "Cubot est un puzzle-game au gameplay simpliste, il suffit de déplacer des cubes de couleur sur des cases ayant la même couleur. Vraiment très simple ! Mais il va falloir se creuser les méninges pour compléter tout les niveaux du jeu car la simplicité apparente du jeu tranche avec la complexité du level-design. De plus un point important du gameplay se situe dans le fait que si plusieurs cubes se trouvent sur l’espace de jeu, ils bougent simultanément. Tout un système de synchronisation/désynchronisation à apprendre pour venir à bout du jeu.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "android"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://games.nicoplv.com/presskitFR"
+      },
+      {
+        "title": "Dead End",
+        "studio": "Flying Oak Games",
+        "summary": "Venu directement des années 70, Dead End est mélange entre un jeu de course rétro et les films d’horreur d’exploitation.\n\nPilotez pour votre survie et atteignez un endroit sûr.",
+        "platforms": [
+          "windows",
+          "mobile"
+        ],
+        "keywords": [
+          "Course",
+          "Solo"
+        ],
+        "link": "http://www.flying-oak.com/presskit/sheet.php?p=dead_end"
+      },
+      {
+        "title": "DeadCore",
+        "studio": "5 Bits Games",
+        "summary": "Vous vous réveillez dans un monde abandonné après une chute interminable à travers les tempêtes magnétiques. Poussé par votre instinct, vous commencez à explorer ce monde plongé dans le vide et très vite vous devez faire face à de nouvelles interrogations au fur et à mesure que des messages cryptiques apparaissent sur votre chemin. Passé les premiers obstacles vous trouvez le “SwitchGun”, une sorte d’objet hybride à mi-chemin entre un outil et une arme : vous vous rendez compte que vous pouvez interagir avec certains éléments de votre environnement par son biais, et la première chose que vous faites est d’ouvrir une porte gigantesque. C’est à ce moment que vous l’apercevez, la Tour. Vous ne savez pas pourquoi ni comment, mais vous êtes convaincu d’une chose : toutes vos questions trouveront leurs réponses une fois arrivé à son sommet. Vous vous mettez ainsi en route pour un voyage périlleux, parsemé d’obstacles, de fossés à franchir, de mécanismes à activer et d’ennemis à vaincre afin de lever le voile sur le mystère entourant cet édifice colossal qui semble figé dans l’attente d’un évènement particulier.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://deadcore-game.com/downloads/press_kit.zip"
+      },
+      {
+        "title": "Drifting Lands",
+        "studio": "Alkemi",
+        "summary": "Drifting Lands est un mix original de shoot’em’up horizontal classique avec les standards modernes du hack’n’slash, le descendant illégitime de Diablo et R-Type en quelque sorte. Drifting Lands est conçu pour satisfaire aussi bien les amateurs de shmups que de hack’n’slash. Le jeu propose un challenge très progressif que vous pourrez surmonter par votre seul Skill ou par une bonne sélection de compétences ainsi qu’une progression plus lente mais sûre de vos statistiques et équipements",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": " http://www.drifting-lands.com"
+      },
+      {
+        "title": "Era for Guild",
+        "studio": "Seederrant Studio",
+        "summary": "Era for Guild est le premier jeu de Seederrant Studio. Explorer l’immensité de l’Univers à la recherche de nouveaux mondes, ça vous dit ? Alors vous serez intéressé par ce projet original dans lequel vous incarnez un Settler à la découverte d’horizons inexplorés. Era for Guild est un nouveau projet ambitieux de jeu communautaire prenant place dans l’espace et qui mêle gestion, combat, commerce, exploration et relations avec les autres Settlers.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "android"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "http://www.seederrant.com/presskit/eraforguild/"
+      },
+      {
+        "title": "FairyTell.me",
+        "studio": "FairyTell Me",
+        "summary": "FairyTell Me est un jeu transmédia qui donne vie aux dessins papier de vos enfants dans un conte sur tablette. Une aventure à vivre, à imprimer et à partager avec toute la famille !",
+        "platforms": [
+          "mobile",
+          "tablette"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://fairytell.me/stunfest/"
+      },
+      {
+        "title": "Goetia",
+        "studio": "Sushee",
+        "summary": "Goetia est un point’n click qui se déroule dans un univers fantastique. Vous incarnez un fantôme, Abigail Blackwood, à la recherche de réponses à propos de la disparition mystérieuse de membres de sa famille. Le jeu, soutenu par Square-Enix, est prévu pour la fin de l’année 2015 sur PC, Mac et Linux.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Point'N'Click",
+          "Solo"
+        ],
+        "link": "http://playgoetia.com/"
+      },
+      {
+        "title": "GrimWar",
+        "studio": "SillyCat Studio",
+        "summary": "GrimWar est un jeu d’action aventure pour appareils tactiles.\n\nVous explorez une immense tour, essayant d’atteindre son sommet. Chaque étage amène différents évènements et vous aurez à :\n\ncombattre afin de vous protéger des monstres occupant la tour\naccumuler les trésors\néviter les innombrables pièges (telles que d’anciennes puissances endormies…)\nfaire face à des choix difficiles",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.sillycatstudio.com/grimwar/presskit/"
+      },
+      {
+        "title": "Hox the Last Ship",
+        "studio": "Tetedebug",
+        "summary": "Hox the Last Ship est un runner game narratif. Vous devrez vous confronter à des parcours dangereux traversés à toute vitesse mais aussi à l’humeur des personnages avec qui vous pourrez dialoguer. Choisissez votre route et tenter d’atteindre le vaisseau. Chaque chemin vous en apprendra plus sur le monde de hox et ils vous permettront peut-être d’en comprendre la clef !",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Runner",
+          "Solo"
+        ],
+        "link": "http://www.hoxthelastship.com/press"
+      },
+      {
+        "title": "Ilios - Betrayal Of Gods",
+        "studio": "Aurora Studio",
+        "summary": "Ilios est un jeu d’action-aventure en 2D HD. S’inspirant de titres encensés par la critique telles que les productions du studio Vanillaware (Dragon’s Crown), des titres de chez Platinum Games (Bayonneta) ou de références plus ancienne (Megaman, Castlevania) la volonté de cette équipe est d’offrir une aventure qui sort des canons actuels en proposant une narration poussée et un gameplay nerveux. ",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Action",
+          "Solo"
+        ],
+        "link": "http://www.ilios-thegame.com"
+      },
+      {
+        "title": "Lije",
+        "studio": "Rufflerim",
+        "summary": "Dans les brumes permanentes d’une étrange contrée, une jeune femme lutte pour sortir du chemin qui a été tracé pour elle par des hommes, des sociétés et des dieux. Lije est un RPG 2D, inspiré à la fois de la tradition japonaise (personnages forts) et de la tradition occidentale (liberté d’action dans un univers cohérent). Le jeu est prévu en 5 épisodes. Dans l’univers de Lije, la croyance crée le réel. Si une rumeur se répand suffisamment, elle va se matérialiser. Au contraire, si un individu se retrouve isolé, si un endroit n’existe plus que dans la mémoire de quelques personnes âgées, il va disparaître dans la brume permanente qui baigne le monde : Bordure. Le joueur explora cet univers dangereux et pourra utiliser ses propriétés : il redessinera les cartes du monde pour le modifier, effacera dans la brume les obstacles qui se dressent sur sa route, réveillera et utilisera les mémoire des gens pour faire émerger des endroits oubliés de Bordure. ",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.rufflerim.com"
+      },
+      {
+        "title": "Mucho Party",
+        "studio": "GlobZ",
+        "summary": "Mucho Party est une collection de 30 jeux jouables à 2 sur le même écran tactile iOS ou Android.\n\nLes joueurs commencent par créer un avatar avec leur selfie.\nEnsuite ils jouent à un mini jeu d’évaluation qui permettra d’équilibrer les parties multijoueurs\nLes 30 jeux sont jouables en 6 modes de jeu : mosaïque, roulette, duel, tic-tac-toe, hot seat, championnat (jusqu’à 8 joueurs)\n3 joueurs programmés (facile, moyen, difficile) permettent de s’entraîner à tous les jeux ou modes de jeu.",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "http://globz.com/games/muchoparty/"
+      },
+      {
+        "title": "Out There",
+        "studio": "Mi Clos",
+        "summary": "Out There, un jeu d’exploration spatiale sur iOs et Android. Ce jeu unique mixe management de ressources, roguelike et fiction interactive dans une expérience addictive dédiée aux mobiles.",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.outtheregame.com/"
+      },
+      {
+        "title": "Papy Stampy",
+        "studio": "Noxis Studio",
+        "summary": "Papy stampy is a 2D side scrolling platformer running on both Android and OUYA. Stampy is a retired Postman. When he was younger he was considered as a hero. He was an alternative against hackers and delivered mails all over the world. One day, he discovered a huge amount of mails spread all over the city and decided to distribute all the lost mails and to discover what happened. You help Stampy in his quest by controlling his movements while he walks, rides his bike or pilots an helicopter.",
+        "platforms": [
+          "android"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://www.noxis-studio.com/presskit/papy-stampy/"
+      },
+      {
+        "title": "Pixelnest Studio",
+        "studio": "Pixelnest Studio",
+        "summary": "Pixelnest Studio est une entreprise rennaise spécialisée dans le jeu vidéo et les applications web. Nous développons un nouveau shmup, un jeu multijoueur nommé Rampaint, le Shmupfest, mais aussi des plugins Unity et des sites internet.\n\nNous écrivons également des tutoriaux, principalement sur Unity. Finalement, nous sommes aussi responsables de l’organisation des “Pitch My Game” sur Rennes. :)",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "mobile"
+        ],
+        "keywords": [
+          "Point'N'Click",
+          "Solo"
+        ],
+        "link": "http://pixelnest.io/presskit"
+      },
+      {
+        "title": "Prism",
+        "studio": "Monkey King Studio",
+        "summary": "Prism est un shoot'em up vertical développé par le studio français Monkey King Studio. Le principe du jeu est original puisque les tirs de votre vaisseau vont tirer partie du pouvoir de réfraction d'un prisme. Originalité et challenge au rendez-vous ! ",
+        "platforms": [
+          "windows",
+          "linux"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://monkey-king-studio.com/presskit/"
+      },
+      {
+        "title": "Shufflepuck Cantina VR",
+        "studio": "Agharta Studio",
+        "summary": "Agharta Studio est un petit studio de développement indépendant basé à Lyon. Après avoir développé nombre de jeux mobile, nous travaillons maintenant principalement sur PC, Mac et Linux. Nous focalisant plus particulièrement sur des jeux et applications en réalité virtuelle :)",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "VR",
+          "Solo",
+          "Multi"
+        ],
+        "link": "https://store.steampowered.com/app/259510/Shufflepuck_Cantina_Deluxe/?l=french"
+      },
+      {
+        "title": "Splasher",
+        "studio": "Splashteam",
+        "summary": "Splasher est un Plateformer 2D dans lequel vous êtes armé d’un canon à peinture surpuissant, et dont le but est de faire preuve d’adresse pour sauver un max d’innocents des griffes d’un big boss megalo. Chaque couleur de peinture offre des possibilités différentes comme se coller aux murs et aux plafonds, rebondir partout, ou encore barbouiller les ennemis pour altérer leurs comportements.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://www.splasher-game.com/"
+      },
+      {
+        "title": "Stormland",
+        "studio": "Subtle Games",
+        "summary": "Petit studio breton comptant actuellement deux membres, Subtle Games s’attache à proposer des jeux qui ont du sens, transmettre des messages tout en maintenant une expérience vidéo-ludique prenante.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "https://stormland-game.com"
+      },
+      {
+        "title": "Win That War!",
+        "studio": "Insane Unity",
+        "summary": "WinThatWar! est un jeu de stratégie en temps réel qui vous entraîne au cœur d’une féroce conquête galactique dans un univers rétrofutur décalé. En plus des modes solo et multi, le cœur du jeu réside dans sa campagne MMO, à l’échelle planétaire. Construisez vos bases, formez des alliances et coordonnez vos armées de robots pour gagner en influence au sein de votre méga-corporation !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "link": "http://www.winthatwar.com"
+      },
+      {
+        "title": "1 Shot 1 Kill",
+        "studio": "Leikir Studio",
+        "summary": "1 Shot 1 Kill est un jeu de bataille en arène, idéal pour s’amuser à 4 potes dans son canapé. Découvrez 4 armes aux gameplays différents : l’arc, le boomerang, le lance-pierre et le marteau, à travers plusieurs modes de jeu : bataille, équipes, coopération. Tirez, esquivez et punissez vos adversaires, avec comme seul allié, votre talent ! 1 Shot 1 Kill, no luck just skill!",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux",
+          "consoles"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "https://www.facebook.com/1shot1killthegame"
+      },
+      {
+        "title": "66-li",
+        "studio": "9 And Some",
+        "summary": "66-li est un projet transmédia permettant aux joueurs de se défier, tout en devenant coauteurs d’une bande dessinée immortalisant leurs sessions de jeu.",
+        "platforms": [
+          "mobile"
+        ],
+        "keywords": [
+          "Multi"
+        ],
+        "link": "http://www.9andsome.com/stunfest"
+      }
+    ]
+  },
+  {
+    "name": "gamejam",
+    "displayName": "Gamejam",
+    "games": [
+      {
+        "title": "Port Tales",
+        "studio": "Electric Dragons",
+        "summary": "C’est un détournement ingénieux d’un genre classique, le jeu de patinoire, à compléter en coopération ! L’idée ? « Amener les joueurs à communiquer et à s’entre-aider pour atteindre un objectif commun. » Facile à dire ? Un indice : « Qui a dit que se faire marcher dessus est une mauvaise chose ? » L’idée fonctionne très bien, le jeu est amusant et propose une bonne dose de challenges !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "https://github.com/webshinra/Port-Tales"
+      },
+      {
+        "title": "Asteruga",
+        "studio": "Gwleclerc",
+        "summary": "Une déclinaison en mode coopératif d’un grand classique : deux vaisseaux, chacun ne pouvant détruire que les astéroïdes de sa propre couleur. Il faut tenir ensemble le plus longtemps possible car, si l’un des deux meurt, les astéroïdes de sa couleur envahiront l’écran !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Coop",
+          "Multi"
+        ]
+      },
+      {
+        "title": "Base Control",
+        "studio": "Strance",
+        "summary": "Un projet mystérieux, lui aussi en mode coopératif. Deux joueurs sont transportés dans une base en crise : incendies, inondations.. Un joueur devra parcourir les couloirs pour les réguler, à moins qu’il remporte des minijeux pour gagner du minerais utilisable par l’autre joueur, sous Occulus Rift et les yeux rivés sur des écrans de contrôle, pour payer au prix fort l’extinction du danger.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "VR",
+          "Puzzle",
+          "Coop"
+        ]
+      },
+      {
+        "title": "ACME",
+        "studio": "Corentin Derbre",
+        "summary": "3, 2, 1, FIGHT ! De la baston dans un univers tordu avec un loup, un agneau, des caisses d’explosifs et des coussins nichons. Pour le thème, c’est aussi barré : l’acronyme du thème donne ACMA, ce qui fait penser à …? ACME, la fausse firme des Toons ! Voilà. Le résultat est amusant, on découvre à travers les niveaux un tas d’idées rigolotes, avec une touche de plaisir nostalgique pour la licence.",
+        "platforms": [
+          "web"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "http://arcade.gamesalad.com/game/121062"
+      }
+    ]
+  }
+]

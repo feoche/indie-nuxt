@@ -1,0 +1,508 @@
+[
+  {
+    "name": "competition",
+    "displayName": "Competition",
+    "games": [
+      {
+        "title": "Sliced",
+        "studio": "The Sliced Up Dudes",
+        "summary": "SLICED est un jeu de combat en arène à trois joueurs où chaque personnage est divisé en trois parties : tête, torse et jambes. Chaque pièce procure une compétence unique. Au cours de la partie, ces pièces s’échangent aléatoirement entre joueurs, qui doivent s’adapter ! Le grand Samouraï Cosmique décide de découper trois univers parallèles avec son katana, puis de les mélanger entre eux !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Combat",
+          "Multi"
+        ],
+        "link": "http://www.slicedgame.com/"
+      },
+      {
+        "title": "Double Kick Heroes",
+        "studio": "Headbang Club",
+        "summary": "DU METAL, DES ZOMBIES, DES SULFATEUSES, WHAT MOAR?!",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://dkh.rocks"
+      },
+      {
+        "title": "Splash Blast Panic",
+        "studio": "Team Kwakwa",
+        "summary": "Splash Blast Panic est un party game multi-joueur compétitif, où des personnages cartoonesques se tirent dessus avec des pistolets à eau et s’envolent avec des jetpacks.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "http://playsbp.ch/"
+      },
+      {
+        "title": "Crowd Smashers",
+        "studio": "Tetedebug",
+        "summary": "Crowd Smashers est un jeu d’affrontement en local. Detruisez le public de votre adversaire tout en protégeant le votre. Combinez 3 écoles de magies pour créer des sorts puissants et surprenants. Plus vous faites d’échanges plus la boule gagne en puissance et en vitesse. Faites appel à des super attaques pour; Buff, Debuff, et détruire encore plus violemment la foule adverse.",
+        "platforms": [
+          "windows",
+          "mac",
+          "linux"
+        ],
+        "keywords": [
+          "Arcade",
+          "Multi"
+        ],
+        "link": "http://www.CrowdSmashers.com"
+      },
+      {
+        "title": "Boiling Bolt",
+        "studio": "Persistant Studios",
+        "summary": "Utilisez vos différents pouvoirs élémentaires et élaborez votre propre façon de jouer pour assurer votre survie dans Boiling Bolt, un shooter nerveux et explosif ! Ralentissez le temps pour faire des combos et profitez de graphismes 3D époustouflants. Variez les plaisirs en jouant aux différents modes de jeux, seul ou en co-op.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://popcornfx.fr/"
+      },
+      {
+        "title": "Looking For Imago",
+        "studio": "Aurelien Da Campo",
+        "summary": "Looking for Imago est un jeu de plateforme et de réflexion dans lequel vous incarnez un petit personnage égaré dans le royaume des insectes depuis plusieurs années déjà. Guidés par votre instinct, vous décidez aujourd’hui de partir en quête d’Imago, le vôtre, car il n’est jamais trop tard…",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://looking-for-imago.com"
+      },
+      {
+        "title": "Modsork",
+        "studio": "David Canela",
+        "summary": "MODSORK est un jeu d’arcade qui retourne le cerveau: Le joueur contrôle deux objets à la fois, chacun avec un stick de sa manette. Pour scorer, le joueur peut créer un laser entre eux pour détruire les ennemis rentrant en contact avec lui. En plus, les ennemis se bougent en rythme de la musique, qui pour sa part s’adapte aux événements du jeux. MODSORK a un mode classique et un mode coopératif.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Arcade",
+          "Solo"
+        ],
+        "link": "http://modsork.com/"
+      },
+      {
+        "title": "An Octonaut Odyssey",
+        "studio": "Octo Studio",
+        "summary": "Dans ce platformer 2D, mêlant exploration, réflexion et plateforme, vous incarnerez Octo, le poulpe amnésique. Vous découvrirez avec lui des planètes sauvages, à la faune et à la flore étranges et évolutives. Vous ferez des rencontres insolites, vous récolterez des indices pour aider Octo à retrouver la mémoire. Vous apprendrez à vous déplacer et à évoluer dans un univers nouveau et accidenté, ainsi qu’à éviter les pièges qui attendent Octo pour le désorienter.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://anoctonautodyssey.com/index.html"
+      },
+      {
+        "title": "Ilios - Betrayal Of Gods",
+        "studio": "Aurora Studio",
+        "summary": "Ilios est un jeu d’action-aventure en 2D HD. S’inspirant de titres encensés par la critique telles que les productions du studio Vanillaware (Dragon’s Crown), des titres de chez Platinum Games (Bayonneta) ou de références plus ancienne (Megaman, Castlevania) la volonté de cette équipe est d’offrir une aventure qui sort des canons actuels en proposant une narration poussée et un gameplay nerveux. ",
+        "platforms": [
+          "windows",
+          "consoles"
+        ],
+        "keywords": [
+          "Action",
+          "Solo"
+        ],
+        "link": "http://www.ilios-thegame.com"
+      },
+      {
+        "title": "Don't Kill Her",
+        "studio": "Wuthrer",
+        "summary": "Don’t Kill Her est un plateformer étrange et mignon à la fois. Entièrement dessiné à la main, son intrigue a pour personnage principal une femme qui ne cesse de répéter au joueur qu’il est son meurtrier. L’aventure est jalonnée d’étonnantes surprises, dont il faudra démêler les tenants et aboutissants afin de percer les mystères de cet énigmatique univers.",
+        "platforms": [
+          "windows",
+          "mac"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "award": "Promise Award",
+        "link": "http://wuthrer.net/dontkillher/"
+      },
+      {
+        "title": "Stormland",
+        "studio": "Subtle Games",
+        "summary": "Petit studio breton comptant actuellement deux membres, Subtle Games s’attache à proposer des jeux qui ont du sens, transmettre des messages tout en maintenant une expérience vidéo-ludique prenante.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo"
+        ],
+        "link": "https://stormland-game.com"
+      },
+      {
+        "title": "Dungeon Rushers",
+        "studio": "Goblinz Studio",
+        "summary": "Dungeon Rushers est un Heroic-Parody Tactical RPG combinant gameplay d’un dungeon crawler et combats au tour par tour. Gérez votre équipe, pillez des donjons poussiéreux, écrasez des armées de monstres et fabriquez de puissants équipements. Vivez cette aventure épique avec des héros hauts en couleurs dans un univers complètement décalé. Défiez les autres joueurs en construisant votre propre donjon ! ",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "RPG",
+          "Solo"
+        ],
+        "link": "http://dungeon-rushers.com/fr/"
+      },
+      {
+        "title": "Wasted",
+        "studio": "Wasteam",
+        "summary": "Wasted est une expérience interactive et narrative visant à immerger le joueur au cœur de la dépression. Wasted raconte un morceau de vie d’une personne dépressive, le suivant dans son quotidien. Son appartement devient alors à la fois son lieu de vie et une réflexion de son état mental et émotionnel. L’expérience n’a pas pour objectif de procurer une forme de plaisir ludique. Plaçant le joueur dans la peau d’un dépressif, il s’agit avant tout d’une plongée sensitive et subjective dans la maladie.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "VR",
+          "Solo"
+        ],
+        "link": "http://wasted-game.com/"
+      },
+      {
+        "title": "Lije",
+        "studio": "Rufflerim",
+        "summary": "Dans les brumes permanentes d’une étrange contrée, une jeune femme lutte pour sortir du chemin qui a été tracé pour elle par des hommes, des sociétés et des dieux. Lije est un RPG 2D, inspiré à la fois de la tradition japonaise (personnages forts) et de la tradition occidentale (liberté d’action dans un univers cohérent). Le jeu est prévu en 5 épisodes. Dans l’univers de Lije, la croyance crée le réel. Si une rumeur se répand suffisamment, elle va se matérialiser. Au contraire, si un individu se retrouve isolé, si un endroit n’existe plus que dans la mémoire de quelques personnes âgées, il va disparaître dans la brume permanente qui baigne le monde : Bordure. Le joueur explora cet univers dangereux et pourra utiliser ses propriétés : il redessinera les cartes du monde pour le modifier, effacera dans la brume les obstacles qui se dressent sur sa route, réveillera et utilisera les mémoire des gens pour faire émerger des endroits oubliés de Bordure. ",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Aventure",
+          "Solo"
+        ],
+        "link": "http://www.rufflerim.com"
+      },
+      {
+        "title": "Beam Gleam",
+        "studio": "Neko Entertainment",
+        "summary": "Beam Gleam est un shoot’em up où on ne peut pas tirer. Le vaisseau a un miroir orientable dans huit directions avec lequel on peut réfléchir les lasers ennemis. Scorez au mieux pour être en haut de la table des high scores ! ",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up"
+        ],
+        "link": "https://www.facebook.com/BeamGleamGame/"
+      },
+      {
+        "title": "Prism",
+        "studio": "Monkey King Studio",
+        "summary": "Prism est un shoot ‘em up spatial avec certaines mécaniques de RPG. Les loot, ainsi que certaines missions et événements, sont générés procéduralement. Mais aussi plus de 12 différents pouvoirs, avec un arbre de talent pour chacun d’eux. Vous tirez à 360° à travers un Prism central qui renvoie des bullets plus puissantes, sur lesquelles vous influencez leur angle de réfraction avec vos gâchettes.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Shoot 'Em Up"
+        ],
+        "link": "http://www.prismthegame.net/"
+      },
+      {
+        "title": "Cipher Pusher",
+        "studio": "Cipher Pusher Team",
+        "summary": "Cipher Pusher est un jeu d’Action/Puzzle avec des blocs, des vortexs, et des fruits de mer! Des blocs à pousser, à porter, à tourner, et à assembler! Mais aussi pousser des blocs à distance, pousser plusieurs blocs d’un coup, lancer des réactions en chaîne… pour des combos encore plus craqués! Esquive des missiles! Expérimente des mécanismes obscurs et résous des énigmes!",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://anto80.free.fr/?id=cipher-pusher"
+      },
+      {
+        "title": "Save Me Mr Tako !",
+        "studio": "Christophe Galati",
+        "summary": "Christophe Galati est un développeur indépendant de 23 ans, créateur de Save me Mr Tako!, projet commencé en 2014 pour les 25 ans de la Game Boy. Sous le pseudonyme ChrisDeneos, il s’occupa de la majeur partie de la conception du jeu sur son temps libre, avec l’aide du compositeur Marc-Antoine Archier. Le jeu est maintenant édité par Nicalis et sortira sur Nintendo Switch et Steam en 2018.",
+        "platforms": [
+          "steam",
+          "switch"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "https://www.nicalis.com/games/savememrtako"
+      },
+      {
+        "title": "Splasher",
+        "studio": "Splashteam",
+        "summary": "Splasher est un Plateformer 2D dans lequel vous êtes armé d’un canon à peinture surpuissant, et dont le but est de faire preuve d’adresse pour sauver un max d’innocents des griffes d’un big boss megalo. Chaque couleur de peinture offre des possibilités différentes comme se coller aux murs et aux plafonds, rebondir partout, ou encore barbouiller les ennemis pour altérer leurs comportements.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "award": "Stunfest Indie Award",
+        "link": "http://www.splasher-game.com/"
+      },
+      {
+        "title": "Outskirts",
+        "studio": "Rezo Zero",
+        "summary": "Outskirts vous transporte sur un terrain circulaire envahi d’ennemis. À l’opposé des shoot’em up traditionnels, tout se joue sur la profondeur du niveau. Trois couleurs dominent à l’écran: revêtir l’une d’elle vous immunisera contre les tirs de cet élément. Alternez-les pour gagner en puissance et déchaîner des armes destructrices. Les assaillants éliminés dans le bon ordre débloqueront les combos.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Shoot 'Em Up",
+          "Solo"
+        ],
+        "link": "http://www.outskirts-game.com/"
+      },
+      {
+        "title": "Lethis - Daring Discovers",
+        "studio": "Triskell Interactive",
+        "summary": "Lethis - Daring Discoverers est un jeu d’exploration dans lequel vous parcourez différentes planètes à la recherche d’artefacts mystérieux. Formez des expéditions et tentez votre chance en devenant l’un des passagers de l’Orbitron, l’incroyable canon à vapeur construit sur Lethis, qui vous enverra à la conquête de l’espace ! Pour l’Empereur, et pour la Science !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Rogue-like",
+          "Solo"
+        ],
+        "link": "http://triskell-interactive.com/"
+      },
+      {
+        "title": "Fancy Candy",
+        "studio": "Play Fool",
+        "summary": "Pas facile de jouer à Mario comme papa et maman, quand on n'a aucune expérience des jeux vidéos ! Fancy Candy est là pour ça : permettre aux petits (sous la supervision des plus grands) de s'initier en douceur à la notion d'avatar et au contrôle à la manette.",
+        "platforms": [
+          "web"
+        ],
+        "keywords": [
+          "Platformer",
+          "Solo"
+        ],
+        "link": "http://www.play-fool.net/fancy-candy"
+      },
+      {
+        "title": "Cubikolor",
+        "studio": "Fractal Box",
+        "summary": "Faites évoluer votre cube en jouant sur la correspondance des couleurs de vos faces et les couleurs du plateau pour arriver à bout de chaque niveau. Avec votre logique pour seul atout, traversez les 150 niveaux en déjouant les pièges du “Système”, entité maligne et calculatrice, afin de prouver votre valeur face à la machine. Roulez, montez, descendez et rembobinez le temps pour venir à bout du Système!",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "http://www.fractalbox.fr/"
+      },
+      {
+        "title": "Moonlight",
+        "studio": "Eode Group",
+        "summary": "Moonlight est un party-game poético-déjanté où l’on incarne le plus petit être du monde de Grinn, une cellule magique. Dans cette environnement aquatique coloré, entre des modes de jeux variés et un mode histoire prenant, chaque joueur y trouvera son compte ! Encore mieux, vous n’aurez plus besoin de vous battre pour les manettes : avec Moonlight vous pourrez rejoindre la partie avec votre smartphone comme contrôleur. Fini la loose des manettes qui ne tournent pas, bonjour les soirées à 36 joueurs ! En plus de pouvoir servir de manette, l’application Moonlight vous permettra de faire progresser votre cellule et de la personnaliser. Seul ou à plusieurs, une partie est toujours possible et toujours aussi fun !",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "http://moonlight.eode.studio/"
+      },
+      {
+        "title": "Hell Eluja",
+        "studio": "Oniroforge",
+        "summary": "Hell Eluja est un jeu à deux joueurs asymétrique. Un des joueurs joue en réalité virtuelle avec le Gear VR, l’autre sur tablette. Chaque personne a une façon de jouer complètement différente. Le premier, livré à lui-même, doit éviter des monstres pour sortir d’un donjon (horreur à la première personne). Le second l’en empêche en y invoquant les monstres (stratégie / dungeon defender).",
+        "platforms": [
+          "windows",
+          "tablette"
+        ],
+        "keywords": [
+          "VR",
+          "Tablette",
+          "Multi"
+        ],
+        "award": "People's Choice Award",
+        "link": "http://oniroforge.ch/hell-eluja/"
+      },
+      {
+        "title": "Jumphead: Battle 4 Fun!",
+        "studio": "Neko Entertainment",
+        "summary": "Dans Jumphead, jeu de combat délirant dans lequel quatre joueurs s’affrontent, amusez-vous à travers des dizaines de niveaux différents, avec toujours plus de bonus et faites varier les modes de jeu pour encore plus de fun !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Party Game",
+          "Multi"
+        ],
+        "link": "https://www.facebook.com/JumpHead.Battle4Fun"
+      },
+      {
+        "title": "Chop",
+        "studio": "Claws Up Games",
+        "summary": "Claws Up Games est un studio indépendant fondé par deux français.",
+        "platforms": [
+          "steam"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "http://chop-thegame.com/"
+      },
+      {
+        "title": "STONEBOND: The Gargolye's Domain",
+        "studio": "i3 Game Jam",
+        "summary": "STONEBOND : Le Domaine des Gargouilles est un jeu de combat gothique multijoueur. Nourri par notre amour des grands classiques pixelisés et des séries TV des années 90, il s’agit d’un jeu de canapé à 4 joueurs dans lequel on crée un lien fragile avec un autre joueur, et on gagne en le protégeant. Chaque nuit, une vieille église maudite anime ses gargouilles et les fait combattre éternellement. Entrez dans le domaine…",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "https://www.facebook.com/i3gamejam"
+      },
+      {
+        "title": "Neurovoider",
+        "studio": "Flying Oak Games",
+        "summary": "NeuroVoider est un twin-stick shooter RPG dans un monde futuriste contrôlé par des robots. Frayez votre chemin à travers des hordes de robots armés jusqu’aux boulons, boostez votre personnage avec les restes de vos adversaires massacrés et défiez le master NeuroVoider au rythme frénétique de la musique Dark Synth de Dan Terminus.",
+        "platforms": [
+          "steam",
+          "consoles"
+        ],
+        "keywords": [
+          "Rogue Like",
+          "Coop",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://neurovoider.flying-oak.com/"
+      },
+      {
+        "title": "Stomp",
+        "studio": "Stomp Team",
+        "summary": "Stomp est un Battle Arena de 2 à 8 joueurs sans arme. Les joueurs s’affrontent en “stompant” les autres.",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Brawler",
+          "Multi"
+        ],
+        "link": "https://www.facebook.com/stompprojectisart/"
+      },
+      {
+        "title": "Win That War!",
+        "studio": "Insane Unity",
+        "summary": "WinThatWar! est un jeu de stratégie en temps réel qui vous entraîne au cœur d’une féroce conquête galactique dans un univers rétrofutur décalé. En plus des modes solo et multi, le cœur du jeu réside dans sa campagne MMO, à l’échelle planétaire. Construisez vos bases, formez des alliances et coordonnez vos armées de robots pour gagner en influence au sein de votre méga-corporation !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Stratégie",
+          "Solo",
+          "Multi",
+          "Online"
+        ],
+        "link": "http://www.winthatwar.com"
+      },
+      {
+        "title": "Samurai Riot",
+        "studio": "Wako Factory",
+        "summary": "Wako Factory est un studio de développement de jeux-vidéo coopératifs indépendant. Depuis mai 2014, la Wako team travaille sur la production de Samurai Riot, un premier titre jouable en coopération, disponible sur PC via la plateforme Steam depuis le 13 Septembre 2017.",
+        "platforms": [
+          "consoles"
+        ],
+        "keywords": [
+          "Beat'Em All",
+          "Solo",
+          "Multi"
+        ],
+        "link": "http://www.wakofactory.com/"
+      },
+      {
+        "title": "City Invaders",
+        "studio": "Lone Stone",
+        "summary": "Lone Stone est un studio indépendant créé en 2014 et basé à Nantes. Notre but est de créer des jeux Free2Play innovants et de qualité. Nous travaillons en ce moment sur notre premier jeu, City Invaders, un MMORPG tactique géolocalisé. Nous pensons que Free2Play ne veut pas dire “jeu de seconde zone”, mais qu’à l’inverse ce mode de commercialisation ouvre de nouvelles possibilités de gameplay.",
+        "platforms": [
+          "steam",
+          "mobile"
+        ],
+        "keywords": [
+          "RPG",
+          "Multi"
+        ],
+        "link": "https://cityinvaders.game/fr-FR/"
+      }
+    ]
+  },
+  {
+    "name": "gamejam",
+    "displayName": "Gamejam",
+    "games": [
+      {
+        "title": "Merci Jambon !",
+        "studio": "RegisRquoi",
+        "summary": "Une histoire de dramas, de Dorian, d'Usul, de CdV et de faisage de sandwichs",
+        "platforms": [
+          "web"
+        ],
+        "keywords": [
+          "Drama",
+          "Solo"
+        ],
+        "link": "https://regisrquoi.itch.io/merci-jambon-"
+      },
+      {
+        "title": "Mighty Miner 6",
+        "studio": "zriL",
+        "summary": "Sauvez le mineur des grottes dantesques à l'aide de moult puzzles à résoudre !",
+        "platforms": [
+          "windows"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "award": "GameJam Award",
+        "link": "https://zril.itch.io/mighty-miner-6"
+      },
+      {
+        "title": "Blob Jumper",
+        "studio": "Pascal Le Merrer",
+        "summary": "Envoyez la petite goutte de blob dans les tuyaux ! A l'aide de mécaniques applicables sur les plateformes, soyez agiles afin de finir les niveaux !",
+        "platforms": [
+          "web"
+        ],
+        "keywords": [
+          "Puzzle",
+          "Solo"
+        ],
+        "link": "https://pascallemerrer.itch.io/blob-jumper"
+      }
+    ]
+  }
+]
